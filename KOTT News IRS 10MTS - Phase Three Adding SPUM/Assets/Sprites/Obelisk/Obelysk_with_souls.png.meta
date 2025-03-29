@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 07cd9fb2a33217e4e8cf323bc64c7fb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1294341482101505178
+    second: Obelysk_with_souls_0
+  - first:
+      213: -5099850148937672774
+    second: Obelysk_with_souls_1
+  - first:
+      213: -8452610516264345107
+    second: Obelysk_with_souls_2
+  - first:
+      213: 4066007170453864735
+    second: Obelysk_with_souls_3
+  - first:
+      213: -5948054373932552470
+    second: Obelysk_with_souls_4
+  - first:
+      213: 4891166976266997215
+    second: Obelysk_with_souls_5
+  - first:
+      213: 4847762658322598079
+    second: Obelysk_with_souls_6
+  - first:
+      213: 3757634214294767612
+    second: Obelysk_with_souls_7
+  - first:
+      213: 6891743957477657075
+    second: Obelysk_with_souls_8
+  - first:
+      213: -340688675387269479
+    second: Obelysk_with_souls_9
+  - first:
+      213: 7700117916794299138
+    second: Obelysk_with_souls_10
+  - first:
+      213: -4656193947412900734
+    second: Obelysk_with_souls_11
+  - first:
+      213: 2072818922350742596
+    second: Obelysk_with_souls_12
+  - first:
+      213: -6332944767166218983
+    second: Obelysk_with_souls_13
+  - first:
+      213: -4161161100898370037
+    second: Obelysk_with_souls_14
+  - first:
+      213: 4079597512759383663
+    second: Obelysk_with_souls_15
+  - first:
+      213: -1058704576398015183
+    second: Obelysk_with_souls_16
+  - first:
+      213: 5787342965556722702
+    second: Obelysk_with_souls_17
+  - first:
+      213: -4353418391464054534
+    second: Obelysk_with_souls_18
+  - first:
+      213: -8594318201504672073
+    second: Obelysk_with_souls_19
+  - first:
+      213: -335676256447854359
+    second: Obelysk_with_souls_20
+  - first:
+      213: -8327534739415336
+    second: Obelysk_with_souls_21
+  - first:
+      213: -4554455634365719456
+    second: Obelysk_with_souls_22
+  - first:
+      213: 6634072674646250887
+    second: Obelysk_with_souls_23
+  - first:
+      213: 1950438646430065022
+    second: Obelysk_with_souls_24
+  - first:
+      213: -3981324299928670590
+    second: Obelysk_with_souls_25
+  - first:
+      213: 474266159812524028
+    second: Obelysk_with_souls_26
+  - first:
+      213: 5244519188967708715
+    second: Obelysk_with_souls_27
+  - first:
+      213: 5048919637092105945
+    second: Obelysk_with_souls_28
+  - first:
+      213: 2586745867764147104
+    second: Obelysk_with_souls_29
+  - first:
+      213: 929308111873570233
+    second: Obelysk_with_souls_30
+  - first:
+      213: -5688594454835989882
+    second: Obelysk_with_souls_31
+  - first:
+      213: 6770588603943477531
+    second: Obelysk_with_souls_32
+  - first:
+      213: 6182028719995715054
+    second: Obelysk_with_souls_33
+  - first:
+      213: -1032704340259482781
+    second: Obelysk_with_souls_34
+  - first:
+      213: -246612702088141401
+    second: Obelysk_with_souls_35
+  - first:
+      213: 4149692896450645839
+    second: Obelysk_with_souls_36
+  - first:
+      213: -8135842815190239562
+    second: Obelysk_with_souls_37
+  - first:
+      213: -5363291514230605973
+    second: Obelysk_with_souls_38
+  - first:
+      213: 5070746978958514146
+    second: Obelysk_with_souls_39
+  - first:
+      213: -6829891106637645989
+    second: Obelysk_with_souls_40
+  - first:
+      213: 5401315484906283417
+    second: Obelysk_with_souls_41
+  - first:
+      213: -7913988404337947514
+    second: Obelysk_with_souls_42
+  - first:
+      213: 1628829518525915031
+    second: Obelysk_with_souls_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obelysk_with_souls_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663894d9743990ee0800000000000000
+      internalID: -1294341482101505178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 212
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7d8d84f41b939b0800000000000000
+      internalID: -5099850148937672774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12551f48b42ba80800000000000000
+      internalID: -8452610516264345107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1108199afb5d6830800000000000000
+      internalID: 4066007170453864735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 212
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeaa01af04447da0800000000000000
+      internalID: -5948054373932552470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 212
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd048d437ae0e340800000000000000
+      internalID: 4891166976266997215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c8b40476b64340800000000000000
+      internalID: 4847762658322598079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c4eab86cc52430800000000000000
+      internalID: 3757634214294767612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 212
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f986648d9464af50800000000000000
+      internalID: 6891743957477657075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e1b8c6471a54bf0800000000000000
+      internalID: -340688675387269479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032527c2705cda60800000000000000
+      internalID: 7700117916794299138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284512f3640e16fb0800000000000000
+      internalID: -4656193947412900734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8c6ed3d124cc10800000000000000
+      internalID: 2072818922350742596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 216
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d73e2a94cdc18a0800000000000000
+      internalID: -6332944767166218983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_14
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 216
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e77c786069046c0800000000000000
+      internalID: -4161161100898370037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66179eb254ad9830800000000000000
+      internalID: 4079597512759383663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_16
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 214
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13547b90cc9be41f0800000000000000
+      internalID: -1058704576398015183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_17
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3d57b3c5c05050800000000000000
+      internalID: 5787342965556722702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_18
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f122d90d8593c0800000000000000
+      internalID: -4353418391464054534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 212
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d3a06129dab880800000000000000
+      internalID: -8594318201504672073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_20
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 214
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e884e62930775bf0800000000000000
+      internalID: -335676256447854359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_21
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de900ab62a62eff0800000000000000
+      internalID: -8327534739415336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_22
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 212
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cda582bb25bc0c0800000000000000
+      internalID: -4554455634365719456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_23
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 212
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855a62e2f5f01c50800000000000000
+      internalID: 6634072674646250887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_24
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7168a47d99511b10800000000000000
+      internalID: 1950438646430065022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_25
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 212
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eee17a4ae7fb8c0800000000000000
+      internalID: -3981324299928670590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_26
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 212
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf73d904f8ee49600800000000000000
+      internalID: 474266159812524028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_27
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d32c6a6648c840800000000000000
+      internalID: 5244519188967708715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_28
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de7e5cd8ad511640800000000000000
+      internalID: 5048919637092105945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_29
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 212
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3aa4c59a7f5e320800000000000000
+      internalID: 2586745867764147104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_30
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5fc17ddc095ec00800000000000000
+      internalID: 929308111873570233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_31
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 216
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827e389b7d0e01b0800000000000000
+      internalID: -5688594454835989882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_32
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11eb529676f5fd50800000000000000
+      internalID: 6770588603943477531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_33
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed7b96fd5afac550800000000000000
+      internalID: 6182028719995715054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_34
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 216
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36354d0cfd81ba1f0800000000000000
+      internalID: -1032704340259482781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_35
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 216
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5efe6dd0bd39cf0800000000000000
+      internalID: -246612702088141401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_36
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f07eb04bba69930800000000000000
+      internalID: 4149692896450645839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_37
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 214
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6fb2ca01ea71f80800000000000000
+      internalID: -8135842815190239562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_38
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fa63a8c2c195b0800000000000000
+      internalID: -5363291514230605973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_39
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 12
+        width: 81
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e715bae289ee5640800000000000000
+      internalID: 5070746978958514146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_40
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 212
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57734e893a5731a0800000000000000
+      internalID: -6829891106637645989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_41
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 214
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e7ade0d355fa40800000000000000
+      internalID: 5401315484906283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 194
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c40e2f97ddb2290800000000000000
+      internalID: -7913988404337947514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelysk_with_souls_43
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 194
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f586331d3ca9610800000000000000
+      internalID: 1628829518525915031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Obelysk_with_souls_0: -1294341482101505178
+      Obelysk_with_souls_1: -5099850148937672774
+      Obelysk_with_souls_10: 7700117916794299138
+      Obelysk_with_souls_11: -4656193947412900734
+      Obelysk_with_souls_12: 2072818922350742596
+      Obelysk_with_souls_13: -6332944767166218983
+      Obelysk_with_souls_14: -4161161100898370037
+      Obelysk_with_souls_15: 4079597512759383663
+      Obelysk_with_souls_16: -1058704576398015183
+      Obelysk_with_souls_17: 5787342965556722702
+      Obelysk_with_souls_18: -4353418391464054534
+      Obelysk_with_souls_19: -8594318201504672073
+      Obelysk_with_souls_2: -8452610516264345107
+      Obelysk_with_souls_20: -335676256447854359
+      Obelysk_with_souls_21: -8327534739415336
+      Obelysk_with_souls_22: -4554455634365719456
+      Obelysk_with_souls_23: 6634072674646250887
+      Obelysk_with_souls_24: 1950438646430065022
+      Obelysk_with_souls_25: -3981324299928670590
+      Obelysk_with_souls_26: 474266159812524028
+      Obelysk_with_souls_27: 5244519188967708715
+      Obelysk_with_souls_28: 5048919637092105945
+      Obelysk_with_souls_29: 2586745867764147104
+      Obelysk_with_souls_3: 4066007170453864735
+      Obelysk_with_souls_30: 929308111873570233
+      Obelysk_with_souls_31: -5688594454835989882
+      Obelysk_with_souls_32: 6770588603943477531
+      Obelysk_with_souls_33: 6182028719995715054
+      Obelysk_with_souls_34: -1032704340259482781
+      Obelysk_with_souls_35: -246612702088141401
+      Obelysk_with_souls_36: 4149692896450645839
+      Obelysk_with_souls_37: -8135842815190239562
+      Obelysk_with_souls_38: -5363291514230605973
+      Obelysk_with_souls_39: 5070746978958514146
+      Obelysk_with_souls_4: -5948054373932552470
+      Obelysk_with_souls_40: -6829891106637645989
+      Obelysk_with_souls_41: 5401315484906283417
+      Obelysk_with_souls_42: -7913988404337947514
+      Obelysk_with_souls_43: 1628829518525915031
+      Obelysk_with_souls_5: 4891166976266997215
+      Obelysk_with_souls_6: 4847762658322598079
+      Obelysk_with_souls_7: 3757634214294767612
+      Obelysk_with_souls_8: 6891743957477657075
+      Obelysk_with_souls_9: -340688675387269479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

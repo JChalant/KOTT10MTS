@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 3be6890625c7a324b9d3e40550984dff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2825908251017616923
+    second: blueandred_obelisk_0
+  - first:
+      213: 4944999756312995049
+    second: blueandred_obelisk_1
+  - first:
+      213: -5570135831040362914
+    second: blueandred_obelisk_2
+  - first:
+      213: 3443419052005783776
+    second: blueandred_obelisk_3
+  - first:
+      213: 2404617766648591345
+    second: blueandred_obelisk_4
+  - first:
+      213: -5309336669238190766
+    second: blueandred_obelisk_5
+  - first:
+      213: -4133544611198976733
+    second: blueandred_obelisk_6
+  - first:
+      213: 3418121044839120576
+    second: blueandred_obelisk_7
+  - first:
+      213: -8425795446762690492
+    second: blueandred_obelisk_8
+  - first:
+      213: -2603852164082652090
+    second: blueandred_obelisk_9
+  - first:
+      213: 8644919050865864546
+    second: blueandred_obelisk_10
+  - first:
+      213: -6497838640113633761
+    second: blueandred_obelisk_11
+  - first:
+      213: -5592864613256110870
+    second: blueandred_obelisk_12
+  - first:
+      213: 2195814565717048194
+    second: blueandred_obelisk_13
+  - first:
+      213: -4723695417654159019
+    second: blueandred_obelisk_14
+  - first:
+      213: 1731833384081557415
+    second: blueandred_obelisk_15
+  - first:
+      213: -6106064613369402297
+    second: blueandred_obelisk_16
+  - first:
+      213: -2365650821358305233
+    second: blueandred_obelisk_17
+  - first:
+      213: 3702421919515311169
+    second: blueandred_obelisk_18
+  - first:
+      213: -3509695165436023499
+    second: blueandred_obelisk_19
+  - first:
+      213: -2583955670968217216
+    second: blueandred_obelisk_20
+  - first:
+      213: -8090221149264413094
+    second: blueandred_obelisk_21
+  - first:
+      213: 5667897916646286609
+    second: blueandred_obelisk_22
+  - first:
+      213: -6216007240546950602
+    second: blueandred_obelisk_23
+  - first:
+      213: -1951120638584686883
+    second: blueandred_obelisk_24
+  - first:
+      213: 9159081404945057956
+    second: blueandred_obelisk_25
+  - first:
+      213: -2423700064777229496
+    second: blueandred_obelisk_26
+  - first:
+      213: -1783773800151973358
+    second: blueandred_obelisk_27
+  - first:
+      213: 755751457336586903
+    second: blueandred_obelisk_28
+  - first:
+      213: -5488943208783480235
+    second: blueandred_obelisk_29
+  - first:
+      213: 4417978264033812305
+    second: blueandred_obelisk_30
+  - first:
+      213: -422185512545249629
+    second: blueandred_obelisk_31
+  - first:
+      213: -7255489033628325816
+    second: blueandred_obelisk_32
+  - first:
+      213: -2303686481402267921
+    second: blueandred_obelisk_33
+  - first:
+      213: -2353691224539047857
+    second: blueandred_obelisk_34
+  - first:
+      213: 1086597509794731638
+    second: blueandred_obelisk_35
+  - first:
+      213: 1152695364279389
+    second: blueandred_obelisk_36
+  - first:
+      213: -4121497661524180674
+    second: blueandred_obelisk_37
+  - first:
+      213: -2852065522009429292
+    second: blueandred_obelisk_38
+  - first:
+      213: -2630080040542096360
+    second: blueandred_obelisk_39
+  - first:
+      213: -2354933639472012670
+    second: blueandred_obelisk_40
+  - first:
+      213: 8238085067309067527
+    second: blueandred_obelisk_41
+  - first:
+      213: -4771521165535154203
+    second: blueandred_obelisk_42
+  - first:
+      213: -9011980179515111792
+    second: blueandred_obelisk_43
+  - first:
+      213: -8183427095754863029
+    second: blueandred_obelisk_44
+  - first:
+      213: 3504235858317734534
+    second: blueandred_obelisk_45
+  - first:
+      213: -276488949744632431
+    second: blueandred_obelisk_46
+  - first:
+      213: 8212317390190657272
+    second: blueandred_obelisk_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueandred_obelisk_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e10cdf494a73720800000000000000
+      internalID: 2825908251017616923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ed61241b20a440800000000000000
+      internalID: 4944999756312995049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56f92839f6e2b2b0800000000000000
+      internalID: -5570135831040362914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fd9f326b79cf20800000000000000
+      internalID: 3443419052005783776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3bea95e1bee5120800000000000000
+      internalID: 2404617766648591345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d1a1ded627156b0800000000000000
+      internalID: -5309336669238190766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d314a9313b2a6c0800000000000000
+      internalID: -4133544611198976733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3ce4fafa9f6f20800000000000000
+      internalID: 3418121044839120576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482b95deaf811b80800000000000000
+      internalID: -8425795446762690492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_9
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ca838a0424ddbd0800000000000000
+      internalID: -2603852164082652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 152
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fedd2f21ce8f770800000000000000
+      internalID: 8644919050865864546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 154
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1638301f2a03d5a0800000000000000
+      internalID: -6497838640113633761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec540a34472262b0800000000000000
+      internalID: -5592864613256110870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b713ea6b9197e10800000000000000
+      internalID: 2195814565717048194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559559b7b00127eb0800000000000000
+      internalID: -4723695417654159019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a708548945b80810800000000000000
+      internalID: 1731833384081557415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca880e596e24ba0800000000000000
+      internalID: -6106064613369402297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c35a9c158b2fd0800000000000000
+      internalID: -2365650821358305233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c74599e15a16330800000000000000
+      internalID: 3702421919515311169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53da74a97de0b4fc0800000000000000
+      internalID: -3509695165436023499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815594f102f32cd0800000000000000
+      internalID: -2583955670968217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5efdb38ab2c9bf80800000000000000
+      internalID: -8090221149264413094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_22
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e0e8102b68ae40800000000000000
+      internalID: 5667897916646286609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 128
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63261f9395e4cb9a0800000000000000
+      internalID: -6216007240546950602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f93fdd1a3ce4e0800000000000000
+      internalID: -1951120638584686883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c2aac2089b1f70800000000000000
+      internalID: 9159081404945057956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 37
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bacd4e1a94d5ed0800000000000000
+      internalID: -2423700064777229496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120b4afd23ce37e0800000000000000
+      internalID: -1783773800151973358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 33
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f70142f7fc7a00800000000000000
+      internalID: 755751457336586903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55afa28bb3b53d3b0800000000000000
+      internalID: -5488943208783480235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_30
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 37
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd12dd2dfcf4d30800000000000000
+      internalID: 4417978264033812305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 36
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a69c6f5388142af0800000000000000
+      internalID: -422185512545249629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 35
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84867d64a235f4b90800000000000000
+      internalID: -7255489033628325816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_33
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 38
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6f522c959a700e0800000000000000
+      internalID: -2303686481402267921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 38
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48556a3d42065fd0800000000000000
+      internalID: -2353691224539047857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 38
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67693299dae541f00800000000000000
+      internalID: 1086597509794731638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd8bdce58140000800000000000000
+      internalID: 1152695364279389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e318f36a6bf7dc6c0800000000000000
+      internalID: -4121497661524180674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2d74c48d6b68d0800000000000000
+      internalID: -2852065522009429292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814b4ac4324108bd0800000000000000
+      internalID: -2630080040542096360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28227a5f458915fd0800000000000000
+      internalID: -2354933639472012670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 10
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2862b8be835270800000000000000
+      internalID: 8238085067309067527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efe402d7c628cdb0800000000000000
+      internalID: -4771521165535154203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 10
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096042536c30fe280800000000000000
+      internalID: -9011980179515111792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 11
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e89300a60ae6e80800000000000000
+      internalID: -8183427095754863029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_45
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 12
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f63862fb81a030800000000000000
+      internalID: 3504235858317734534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_46
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 14
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d762ed3c6b92cf0800000000000000
+      internalID: -276488949744632431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueandred_obelisk_47
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 12
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb319d72308f170800000000000000
+      internalID: 8212317390190657272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae81ca49d35beac44bc6fe8a84de2cc2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blueandred_obelisk_0: 2825908251017616923
+      blueandred_obelisk_1: 4944999756312995049
+      blueandred_obelisk_10: 8644919050865864546
+      blueandred_obelisk_11: -6497838640113633761
+      blueandred_obelisk_12: -5592864613256110870
+      blueandred_obelisk_13: 2195814565717048194
+      blueandred_obelisk_14: -4723695417654159019
+      blueandred_obelisk_15: 1731833384081557415
+      blueandred_obelisk_16: -6106064613369402297
+      blueandred_obelisk_17: -2365650821358305233
+      blueandred_obelisk_18: 3702421919515311169
+      blueandred_obelisk_19: -3509695165436023499
+      blueandred_obelisk_2: -5570135831040362914
+      blueandred_obelisk_20: -2583955670968217216
+      blueandred_obelisk_21: -8090221149264413094
+      blueandred_obelisk_22: 5667897916646286609
+      blueandred_obelisk_23: -6216007240546950602
+      blueandred_obelisk_24: -1951120638584686883
+      blueandred_obelisk_25: 9159081404945057956
+      blueandred_obelisk_26: -2423700064777229496
+      blueandred_obelisk_27: -1783773800151973358
+      blueandred_obelisk_28: 755751457336586903
+      blueandred_obelisk_29: -5488943208783480235
+      blueandred_obelisk_3: 3443419052005783776
+      blueandred_obelisk_30: 4417978264033812305
+      blueandred_obelisk_31: -422185512545249629
+      blueandred_obelisk_32: -7255489033628325816
+      blueandred_obelisk_33: -2303686481402267921
+      blueandred_obelisk_34: -2353691224539047857
+      blueandred_obelisk_35: 1086597509794731638
+      blueandred_obelisk_36: 1152695364279389
+      blueandred_obelisk_37: -4121497661524180674
+      blueandred_obelisk_38: -2852065522009429292
+      blueandred_obelisk_39: -2630080040542096360
+      blueandred_obelisk_4: 2404617766648591345
+      blueandred_obelisk_40: -2354933639472012670
+      blueandred_obelisk_41: 8238085067309067527
+      blueandred_obelisk_42: -4771521165535154203
+      blueandred_obelisk_43: -9011980179515111792
+      blueandred_obelisk_44: -8183427095754863029
+      blueandred_obelisk_45: 3504235858317734534
+      blueandred_obelisk_46: -276488949744632431
+      blueandred_obelisk_47: 8212317390190657272
+      blueandred_obelisk_5: -5309336669238190766
+      blueandred_obelisk_6: -4133544611198976733
+      blueandred_obelisk_7: 3418121044839120576
+      blueandred_obelisk_8: -8425795446762690492
+      blueandred_obelisk_9: -2603852164082652090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
