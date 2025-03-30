@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      royal 32x32 v02_0: -3609151600650504475
+      royal 32x32 v02_1: -794866805419798709
+      royal 32x32 v02_2: 4769473042171721206
+      royal 32x32 v02_3: 8449112303340790198
+      royal 32x32 v02_4: -7904948965902187336
+      royal 32x32 v02_5: -5902930455253425009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

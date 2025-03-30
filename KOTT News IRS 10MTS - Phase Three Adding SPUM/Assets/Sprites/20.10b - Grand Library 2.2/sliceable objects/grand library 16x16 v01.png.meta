@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      grand library 16x16 v01_0: -3344947145913981049
+      grand library 16x16 v01_1: -7690009205974641441
+      grand library 16x16 v01_10: -2301873440422605219
+      grand library 16x16 v01_11: -1592966420994340605
+      grand library 16x16 v01_12: -5958193193713633232
+      grand library 16x16 v01_13: -4201764145395909552
+      grand library 16x16 v01_14: -3037369266061877556
+      grand library 16x16 v01_2: 5744660218999178563
+      grand library 16x16 v01_3: -2050468232840137045
+      grand library 16x16 v01_4: 6845831624674945834
+      grand library 16x16 v01_5: -2064230805097453863
+      grand library 16x16 v01_6: 3204750600353048187
+      grand library 16x16 v01_7: 8873250263822486226
+      grand library 16x16 v01_8: -3031542024092221864
+      grand library 16x16 v01_9: 4685246806484554908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ballista_Loaded_Shadow_315_0: 6174984505908405062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

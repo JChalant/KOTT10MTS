@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ballista_Loaded_Body_292_0: -5878434880278310556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

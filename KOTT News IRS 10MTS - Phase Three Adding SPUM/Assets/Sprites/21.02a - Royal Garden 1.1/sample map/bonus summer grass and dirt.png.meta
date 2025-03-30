@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonus summer grass and dirt_0: 5287650588836230239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

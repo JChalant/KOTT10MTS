@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      royal garden, small fountain v01_0: -2173134822117291838
+      royal garden, small fountain v01_1: 6271865539481330488
+      royal garden, small fountain v01_2: -7259507042445095488
+      royal garden, small fountain v01_3: -5740052782601575954
+      royal garden, small fountain v01_4: 9137810207830259057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

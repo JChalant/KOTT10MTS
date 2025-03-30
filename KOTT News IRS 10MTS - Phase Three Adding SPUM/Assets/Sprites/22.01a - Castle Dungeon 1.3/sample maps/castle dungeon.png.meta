@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle dungeon_0: 8890164869880960158
+      castle dungeon_1: 955313438846533554
+      castle dungeon_10: -7984133496258303509
+      castle dungeon_11: -2744269998291378138
+      castle dungeon_12: 2201971833491596078
+      castle dungeon_13: 8482850584284291457
+      castle dungeon_14: 8056960060735604702
+      castle dungeon_15: 4263426467918743236
+      castle dungeon_16: 1325318357126494638
+      castle dungeon_17: 6596744775351356246
+      castle dungeon_18: -2890279169739899455
+      castle dungeon_19: 1460015863911984459
+      castle dungeon_2: 7843307055766108567
+      castle dungeon_20: 254632527523470846
+      castle dungeon_21: 3911589455502352114
+      castle dungeon_22: 7826597670567260291
+      castle dungeon_23: 2651671179891196176
+      castle dungeon_24: 6047501664387789667
+      castle dungeon_25: 7093968950667073666
+      castle dungeon_26: -5717654997255864751
+      castle dungeon_27: 221705432831359350
+      castle dungeon_28: -8815085128307321104
+      castle dungeon_29: -4744333250527186186
+      castle dungeon_3: 5394402848153954432
+      castle dungeon_30: 9130546545784875997
+      castle dungeon_31: -5751462233110514537
+      castle dungeon_32: -8633792977563920817
+      castle dungeon_33: 8990208865496257587
+      castle dungeon_34: 4850885496322999089
+      castle dungeon_35: 3085562566651679585
+      castle dungeon_36: 4715863114962818124
+      castle dungeon_37: -2152764502405032131
+      castle dungeon_38: -2944781902262474789
+      castle dungeon_39: -2959989364039407715
+      castle dungeon_4: 2169969410572254123
+      castle dungeon_5: -8839970416078171020
+      castle dungeon_6: 4860750752894471115
+      castle dungeon_7: -1579687540724616564
+      castle dungeon_8: 1817290553359971213
+      castle dungeon_9: 2143787642365070111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Can\u0303on_bala_0": -2340802621787483764
+      "Can\u0303on_bala_1": -5426948005211754267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

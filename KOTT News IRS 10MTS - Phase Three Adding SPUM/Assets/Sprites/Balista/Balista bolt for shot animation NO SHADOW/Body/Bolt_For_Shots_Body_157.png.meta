@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bolt_For_Shots_Body_157_0: -2600069179456602799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
