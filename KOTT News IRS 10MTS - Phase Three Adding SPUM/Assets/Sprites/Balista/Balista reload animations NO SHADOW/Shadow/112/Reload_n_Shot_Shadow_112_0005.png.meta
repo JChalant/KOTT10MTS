@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Reload_n_Shot_Shadow_112_0005_0: 196362787186822692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

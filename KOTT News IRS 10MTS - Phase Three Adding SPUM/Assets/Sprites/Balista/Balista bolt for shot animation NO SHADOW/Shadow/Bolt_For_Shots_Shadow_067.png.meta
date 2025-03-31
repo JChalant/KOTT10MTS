@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bolt_For_Shots_Shadow_067_0: 1992023617330419971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

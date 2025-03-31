@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonus wooden stairs_0: 7766965652217044993
+      bonus wooden stairs_1: 6992903704408741610
+      bonus wooden stairs_10: -3227028349034163011
+      bonus wooden stairs_11: -3784826337362578193
+      bonus wooden stairs_12: -286423754016153726
+      bonus wooden stairs_13: -1866640287723968453
+      bonus wooden stairs_14: 6265040742389037855
+      bonus wooden stairs_2: -6643576812288569197
+      bonus wooden stairs_3: -7815354129936056376
+      bonus wooden stairs_4: -4122740663110050799
+      bonus wooden stairs_5: -1795791718294024707
+      bonus wooden stairs_6: 7090776013537927333
+      bonus wooden stairs_7: 6351756502230755151
+      bonus wooden stairs_8: -8853432824865742034
+      bonus wooden stairs_9: -4107136325281122401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
