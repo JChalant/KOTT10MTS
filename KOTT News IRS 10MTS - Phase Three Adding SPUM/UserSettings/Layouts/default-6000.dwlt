@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 239
     height: 384
-  m_MinSize: {x: 602, y: 376}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 600, y: 350}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 71
+  controlID: 162
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 424
     height: 981
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -469,7 +469,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 50804
+  m_LastSelectedObjectID: -1270
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -621,10 +621,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3296feff
-      m_LastClickedID: 0
-      m_ExpandedIDs: 0afbffff0cfbffff84c6000002c70000
+      scrollPos: {x: 0, y: 176}
+      m_SelectedIDs: 0afbffff
+      m_LastClickedID: -1270
+      m_ExpandedIDs: 0afbffff0cfbffff56c6000002c70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -733,7 +733,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Signs and objects
+    - Assets/Settings
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -743,7 +743,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sprites/Signs and objects
+  - Assets/Settings
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\JC Media Group\github stuff\KOTT News IRS 10MTS\KOTT10MTS\KOTT
     News IRS 10MTS - Phase Three Adding SPUM
@@ -751,9 +751,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 20e80000
-    m_LastClickedID: 59424
-    m_ExpandedIDs: 0000000012e8000014e8000016e8000018e800001ae800001ce800001ee8000020e8000022e8000024e8000026e8000028e800002ae800002ce8000000ca9a3b
+    m_SelectedIDs: a2e80000
+    m_LastClickedID: 59554
+    m_ExpandedIDs: 0000000012e8000014e8000016e8000018e800001ae800001ce800001ee8000020e8000022e8000024e8000026e8000028e800002ae800002ce80000a2e8000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300006eda000038da000032db0000ecf80000f8dc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1405,9 +1405,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -68.21094, y: 34.190243, z: -0.518914}
+    m_Target: {x: -50.681244, y: 7.8117495, z: 0.8173772}
     speed: 2
-    m_Value: {x: -68.21094, y: 34.190243, z: -0.518914}
+    m_Value: {x: -50.681244, y: 7.8117495, z: 0.8173772}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1457,9 +1457,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 24.503815
+    m_Target: 53.26218
     speed: 2
-    m_Value: 24.503815
+    m_Value: 53.26218
   m_Ortho:
     m_Target: 1
     speed: 2
