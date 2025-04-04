@@ -1,13 +1,18 @@
+using Unity.VisualScripting;
+using UnityEditor.UI;
 using UnityEngine;
 
 public class PlayerMovment : MonoBehaviour
 {
+    public static GameObject self;
+    public GameObject Me;
     public float moveSpeed;
     Rigidbody2D rb;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        self = Me;
         rb.gravityScale = 0;
     }
 
@@ -35,8 +40,12 @@ public class PlayerMovment : MonoBehaviour
         {
             movment += new Vector3(0, -1,0);
         }
-        Debug.Log(movment);
-        Debug.Log(rb);
+        //Debug.Log(movment);
+        //Debug.Log(rb);
         rb.MovePosition(transform.position + movment.normalized * moveSpeed/10);
+    }
+    public static Vector3 getPosition()
+    {
+        return self.transform.position; 
     }
 }

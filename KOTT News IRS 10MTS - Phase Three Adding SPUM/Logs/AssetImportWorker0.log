@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 31904 MB
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 32677 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+D:/Projects/Collaborative Projects/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58853
+64262
 -job-worker-count
 7
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
-D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+Successfully changed project path to: D:/Projects/Collaborative Projects/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+D:/Projects/Collaborative Projects/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,12 +59,12 @@ D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [38524]  Target information:
+Player connection [30844]  Target information:
 
-Player connection [38524]  * "[IP] 192.168.50.58 [Port] 0 [Flags] 2 [Guid] 3384768226 [EditorId] 3384768226 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LTRCK6L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [30844]  * "[IP] 172.30.135.38 [Port] 0 [Flags] 2 [Guid] 3482744548 [EditorId] 3482744548 [Version] 1048832 [Id] WindowsEditor(7,Jarvis) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [38524] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [38524] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [30844] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [30844] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -75,61 +75,61 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.19 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.90 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.32f1 (b2e806cf271c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM/Assets
+[Subsystems] Discovering subsystems at path D:/Projects/Collaborative Projects/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon RX 7900 XTX (ID=0x744c)
-    Vendor:   ATI
-    VRAM:     24511 MB
-    Driver:   32.0.11027.2001
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   NVIDIA
+    VRAM:     7987 MB
+    Driver:   32.0.15.7283
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002721 seconds.
-- Loaded All Assemblies, in  0.258 seconds
+Registered in 0.003637 seconds.
+- Loaded All Assemblies, in  0.407 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.214 seconds
-Domain Reload Profiling: 471ms
-	BeginReloadAssembly (90ms)
+- Finished resetting the current domain, in  0.336 seconds
+Domain Reload Profiling: 739ms
+	BeginReloadAssembly (136ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (25ms)
-	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (100ms)
-		LoadAssemblies (88ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (132ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (99ms)
-			TypeCache.Refresh (98ms)
-				TypeCache.ScanAssembly (89ms)
+		AnalyzeDomain (160ms)
+			TypeCache.Refresh (159ms)
+				TypeCache.ScanAssembly (146ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (214ms)
+	FinalizeReload (337ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (182ms)
+		SetupLoadedEditorAssemblies (291ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (17ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (34ms)
-			ProcessInitializeOnLoadAttributes (93ms)
-			ProcessInitializeOnLoadMethodAttributes (35ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (153ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -138,506 +138,1521 @@ Domain Reload Profiling: 471ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.535 seconds
-Refreshing native plugins compatible for Editor in 0.77 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.812 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.541 seconds
-Domain Reload Profiling: 1074ms
-	BeginReloadAssembly (112ms)
+- Finished resetting the current domain, in  0.792 seconds
+Domain Reload Profiling: 1600ms
+	BeginReloadAssembly (173ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (21ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (26ms)
-	LoadAllAssembliesAndSetupDomain (363ms)
-		LoadAssemblies (227ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (547ms)
+		LoadAssemblies (329ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (202ms)
-			TypeCache.Refresh (126ms)
-				TypeCache.ScanAssembly (115ms)
-			BuildScriptInfoCaches (66ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (541ms)
+		AnalyzeDomain (320ms)
+			TypeCache.Refresh (202ms)
+				TypeCache.ScanAssembly (187ms)
+			BuildScriptInfoCaches (97ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (792ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (449ms)
+		SetupLoadedEditorAssemblies (659ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (76ms)
-			ProcessInitializeOnLoadAttributes (296ms)
-			ProcessInitializeOnLoadMethodAttributes (68ms)
-			AfterProcessingInitializeOnLoad (4ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (434ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (4ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.97 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 3.41 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 219 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6627 unused Assets / (3.9 MB). Loaded Objects now: 7321.
-Memory consumption went from 180.5 MB to 176.6 MB.
-Total: 6.714600 ms (FindLiveObjects: 0.977500 ms CreateObjectMapping: 0.224100 ms MarkObjects: 4.016500 ms  DeleteObjects: 1.495800 ms)
+Unloading 6629 unused Assets / (5.4 MB). Loaded Objects now: 7322.
+Memory consumption went from 182.5 MB to 177.2 MB.
+Total: 14.445000 ms (FindLiveObjects: 0.924500 ms CreateObjectMapping: 1.241100 ms MarkObjects: 7.541200 ms  DeleteObjects: 4.737000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 761445.507860 seconds.
-  path: Assets/Settings/Lit2DSceneTemplate.scenetemplate
-  artifactKey: Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95e015fa3cc314f02b73615f1819063d') in 0.0707712 seconds
+  Time since last request: 207432.281655 seconds.
+  path: Assets/Resources/EnemyPrefabs/SampleEnemy.prefab
+  artifactKey: Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyPrefabs/SampleEnemy.prefab using Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7914b31517cb2d5f39bd512812d3f52') in 0.558562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6616 unused Assets / (4.4 MB). Loaded Objects now: 7458.
+Memory consumption went from 157.3 MB to 152.9 MB.
+Total: 16.062500 ms (FindLiveObjects: 0.968100 ms CreateObjectMapping: 1.722000 ms MarkObjects: 10.143600 ms  DeleteObjects: 3.227700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.770 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.748 seconds
+Domain Reload Profiling: 1518ms
+	BeginReloadAssembly (220ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (33ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (466ms)
+		LoadAssemblies (314ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (243ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (217ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (749ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (556ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (370ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6627 unused Assets / (4.6 MB). Loaded Objects now: 7359.
+Memory consumption went from 157.0 MB to 152.4 MB.
+Total: 12.255200 ms (FindLiveObjects: 0.829800 ms CreateObjectMapping: 1.283700 ms MarkObjects: 7.182800 ms  DeleteObjects: 2.958000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.721 seconds
+Refreshing native plugins compatible for Editor in 1.27 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.832 seconds
+Domain Reload Profiling: 1553ms
+	BeginReloadAssembly (190ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (454ms)
+		LoadAssemblies (304ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (241ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (219ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (832ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (615ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (417ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 2.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6627 unused Assets / (4.9 MB). Loaded Objects now: 7361.
+Memory consumption went from 156.9 MB to 152.0 MB.
+Total: 15.863100 ms (FindLiveObjects: 1.077800 ms CreateObjectMapping: 1.531000 ms MarkObjects: 9.247000 ms  DeleteObjects: 4.006300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 232.553596 seconds.
+  path: Assets/Resources/EnemyPrefabs/SampleEnemy.prefab
+  artifactKey: Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyPrefabs/SampleEnemy.prefab using Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd03fee95c24acd2d43ea426cf9d83df9') in 0.4473781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.410633 seconds.
+  path: Assets/Resources/EnemyPrefabs/SampleEnemy.prefab
+  artifactKey: Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyPrefabs/SampleEnemy.prefab using Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e5ea87306b5c43fcee59463836b8baf') in 0.0055966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.391623 seconds.
+  path: Assets/Resources/EnemyPrefabs/SampleEnemy.prefab
+  artifactKey: Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyPrefabs/SampleEnemy.prefab using Guid(9162c36f38082324f8a4137ce18a8a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44e73699a8ddcaf78ef05b6737a9cfee') in 0.0108275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.008458 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/1_Horse/0_Spite/0_Body/BlackHorse.png
+  artifactKey: Guid(848bc3c193b31c7489b3ad483cc4a824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/1_Horse/0_Spite/0_Body/BlackHorse.png using Guid(848bc3c193b31c7489b3ad483cc4a824) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f370de20613f4feac9a9e82e1741e957') in 0.0558242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/1_Horse/0_Spite/0_Body/RedHorse.png
+  artifactKey: Guid(b04621f87db561d42b5d13d577608ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/1_Horse/0_Spite/0_Body/RedHorse.png using Guid(b04621f87db561d42b5d13d577608ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b5c0a0e2fbfa08b2435aecdcd334b27') in 0.0338642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_4.png
+  artifactKey: Guid(69edace412443554185db672d1906d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_4.png using Guid(69edace412443554185db672d1906d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61c5668caa736084d5a0408869bc3bd8') in 0.042955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_5.png
+  artifactKey: Guid(2d4ddbcaa077542029456f5c81f2f981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_5.png using Guid(2d4ddbcaa077542029456f5c81f2f981) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd23bbe5d6aa0fca57d401d1d2f8294ea') in 0.0218067 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Elf_2.png
+  artifactKey: Guid(9319101edbfea48f58b3eb3a01e16f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Elf_2.png using Guid(9319101edbfea48f58b3eb3a01e16f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '713b0fb8acb363402b1827c269361612') in 0.0202831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/2_Axe/AxeNormal1.png
+  artifactKey: Guid(59a7f0c391e16bb4d98b4be022f6d461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/2_Axe/AxeNormal1.png using Guid(59a7f0c391e16bb4d98b4be022f6d461) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '786eec0e2bda6576df5b3ae7eaaa4905') in 0.0127646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Skelton_1.png
+  artifactKey: Guid(3e7f1bcf5e1004551853fead34d7fb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Skelton_1.png using Guid(3e7f1bcf5e1004551853fead34d7fb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5b0c15dceffa9b30446512fe2caa4bc') in 0.0211691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye8.png
+  artifactKey: Guid(0e2d39890931c4e2f991d0e939c2bf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye8.png using Guid(0e2d39890931c4e2f991d0e939c2bf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18cffab0154b912bf4be5c17e6e8fa3d') in 0.018994 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye2/Eye6.png
+  artifactKey: Guid(990434a00ad034df798e0fbd3d8ca806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye2/Eye6.png using Guid(990434a00ad034df798e0fbd3d8ca806) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e68be419ced214fc8148ff9c1b873d8a') in 0.0394339 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye2/Eye7.png
+  artifactKey: Guid(79d25201c24af4e4e9d78851c50d2988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye2/Eye7.png using Guid(79d25201c24af4e4e9d78851c50d2988) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26740c82d6e4d314747c67644f70a16c') in 0.0146231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye6.png
+  artifactKey: Guid(7d90004bdccf046eeb0c869afa15c342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye6.png using Guid(7d90004bdccf046eeb0c869afa15c342) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ba71588c2589f92bb11c10b2a36f092') in 0.0091776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye16.png
+  artifactKey: Guid(60285ba8003e7407396716e350335e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye16.png using Guid(60285ba8003e7407396716e350335e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef740de85a28670135cffb0c02846b4c') in 0.0160778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye0.png
+  artifactKey: Guid(e2579aadb18ab4cf1b2461fb9e0f0cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye0.png using Guid(e2579aadb18ab4cf1b2461fb9e0f0cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c27003711ab1d8ea4faa2b2e5da0e081') in 0.016695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye10.png
+  artifactKey: Guid(0f875e7fc258e447096d5261bd70a0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye10.png using Guid(0f875e7fc258e447096d5261bd70a0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b88c69a443964f20ccee80bd83942fb3') in 0.0170706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye/Eye10.png
+  artifactKey: Guid(d07907bd2d3dd42bd98619c86e742e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye/Eye10.png using Guid(d07907bd2d3dd42bd98619c86e742e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9953e3157d9188bc1996ba15ab15e994') in 0.0084878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye7.png
+  artifactKey: Guid(06e374eae02034664b218e04c0c126cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye7.png using Guid(06e374eae02034664b218e04c0c126cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50cfedeb2092cecfafb72b02d0185664') in 0.011455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye2/Eye0.png
+  artifactKey: Guid(ad45d956059f54c35ab4f6d6afd50ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye2/Eye0.png using Guid(ad45d956059f54c35ab4f6d6afd50ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc1d7a1cc8a11ef99817a5895f0ad4ee') in 0.0079939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye16.png
+  artifactKey: Guid(e0c299db1654542d0a284e53abe2746e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye16.png using Guid(e0c299db1654542d0a284e53abe2746e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4250be78c5e29e49f31c22fad8fe7575') in 0.0069677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye11.png
+  artifactKey: Guid(2bc7a73bf12cb4e8596cb7fb130228b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye11.png using Guid(2bc7a73bf12cb4e8596cb7fb130228b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3fae3c7e00ce17f59cbc87d3fe33b4e') in 0.0071614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye5/Eye9.png
+  artifactKey: Guid(83521d388822b41b5bf43ee5f72d4c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye5/Eye9.png using Guid(83521d388822b41b5bf43ee5f72d4c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca2e376d67641ac8e102171f45de8ba0') in 0.0179964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_1.png
+  artifactKey: Guid(9f6f74f146203417fae095263bf53e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_1.png using Guid(9f6f74f146203417fae095263bf53e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57f8204dfccc6b7f9b8d80fc8b425542') in 0.0183841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye4/Eye0.png
+  artifactKey: Guid(5f9f25273c88c47b18ed01eb8f1140b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye4/Eye0.png using Guid(5f9f25273c88c47b18ed01eb8f1140b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'feb75eb306245198502d4524e4fad347') in 0.0135891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye1.png
+  artifactKey: Guid(317140fbba14844a3b93f39a688ff60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye1.png using Guid(317140fbba14844a3b93f39a688ff60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22c0e3cfcab613eb278b26879218ead7') in 0.0095646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye2/Eye4.png
+  artifactKey: Guid(056749da5a1014dfea71f16c2a46ae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye2/Eye4.png using Guid(056749da5a1014dfea71f16c2a46ae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '247a602ad82da1e61114a9bbd8d4e43d') in 0.0081925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye6.png
+  artifactKey: Guid(fb6c915aba5674ce5914966515cca0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye6.png using Guid(fb6c915aba5674ce5914966515cca0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7863e250e1e5672d42eb7ca2da0cb646') in 0.0083452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_2.png
+  artifactKey: Guid(2e602cdbabb8a91438240c454df375b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Orc_2.png using Guid(2e602cdbabb8a91438240c454df375b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4eea3734b87ad7f6b730b350203e442') in 0.0181979 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye/Eye0.png
+  artifactKey: Guid(889103fb98eff4203a15de8886df9dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye/Eye0.png using Guid(889103fb98eff4203a15de8886df9dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '220596aae281b78908f7940bbbc07fb0') in 0.0080174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye6/Eye1.png
+  artifactKey: Guid(a383687c5a66648a28f30de7d2df8a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye6/Eye1.png using Guid(a383687c5a66648a28f30de7d2df8a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8c30d25613420753d4f1bc973d3a8e0') in 0.0140056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye6.png
+  artifactKey: Guid(1b5e356d631424ab38da96b185259dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye6.png using Guid(1b5e356d631424ab38da96b185259dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b6fd350bbfdbf60601c6ab7678f8ce3') in 0.0076962 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye.png
+  artifactKey: Guid(45e990fcc26754c2ebdcb9d89be8d65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Eye/Eye.png using Guid(45e990fcc26754c2ebdcb9d89be8d65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4b619f22526f5997e3ecf50ac59d776') in 0.0080419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye3/Eye16.png
+  artifactKey: Guid(015301c6b6e8b4745aa2a97ebdafaeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye3/Eye16.png using Guid(015301c6b6e8b4745aa2a97ebdafaeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d1a9a151edeb1bc80d66a5fda76218a') in 0.0086566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye6/Eye2.png
+  artifactKey: Guid(a7a11668c686d4491b649974d43fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye6/Eye2.png using Guid(a7a11668c686d4491b649974d43fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7732ef46622d13e50e988c20b4a839eb') in 0.0133391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye5/Eye7.png
+  artifactKey: Guid(3b865ddf26b13470a89d518b17561a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye5/Eye7.png using Guid(3b865ddf26b13470a89d518b17561a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '541af170c546195ba096cadb40339bf5') in 0.008147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Devil_1.png
+  artifactKey: Guid(9dbef0fdede574b5fad7cc4a7adcda48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Devil_1.png using Guid(9dbef0fdede574b5fad7cc4a7adcda48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8819df36ed20e17677118c58848edf80') in 0.0360213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_2.png
+  artifactKey: Guid(470cfb1e4f7865c40b83d403037c90c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_2.png using Guid(470cfb1e4f7865c40b83d403037c90c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9704daa1e7ca59f9dbdb3fb1d0e38134') in 0.0245706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye5.png
+  artifactKey: Guid(ebcc48052eb364d82bd00d1b9a872c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye5.png using Guid(ebcc48052eb364d82bd00d1b9a872c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44b518a3bb4e9967674f45b044bdab38') in 0.0272027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/2_Axe/AxeLong1.png
+  artifactKey: Guid(be8252f11d666d54aa6bd41959de2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/2_Axe/AxeLong1.png using Guid(be8252f11d666d54aa6bd41959de2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f14bf35f38d46f12190c1dbe1a3674af') in 0.0343237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye7.png
+  artifactKey: Guid(c6a4dea6b01534ab7a60f974046802a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye7.png using Guid(c6a4dea6b01534ab7a60f974046802a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94e6ca0da12b50647527505212f4be26') in 0.0172761 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_3.png
+  artifactKey: Guid(7212bef95b8a58344944fb6e590be91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body/Human_3.png using Guid(7212bef95b8a58344944fb6e590be91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd96bf3e2cdce35ae82b45401154908cc') in 0.0248707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye10.png
+  artifactKey: Guid(439c5fc38026941b6bcd2b47bda117c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye10.png using Guid(439c5fc38026941b6bcd2b47bda117c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6ba9c6915345d54ba807d2f865c9a33') in 0.0078042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye7.png
+  artifactKey: Guid(0e5e1ddda5fa541f191bc88c0258881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye7.png using Guid(0e5e1ddda5fa541f191bc88c0258881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9444cbeb5baf9e189eb0f4036be8c3d9') in 0.0101957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye1/Eye0.png
+  artifactKey: Guid(9f3ff9a3b4594455b869ee76e0551d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye1/Eye0.png using Guid(9f3ff9a3b4594455b869ee76e0551d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e18a16a0b564609329937d76dc40044') in 0.0095471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye2/Eye9.png
+  artifactKey: Guid(5f041c1c5602b49cfbc70c7cc56f16ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye2/Eye9.png using Guid(5f041c1c5602b49cfbc70c7cc56f16ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98981c8c3f57c3acd612cb9d452a4156') in 0.010232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye1.png
+  artifactKey: Guid(a9710c906025b4422b6ad27748bee9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye1.png using Guid(a9710c906025b4422b6ad27748bee9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f9db076f945e553864e7a3bf4983095') in 0.0092002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye7/Eye9.png
+  artifactKey: Guid(402f238b8c56b4048b702b97d020744d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye7/Eye9.png using Guid(402f238b8c56b4048b702b97d020744d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16ffc462ab4718a99ff192a04f3b19eb') in 0.0074838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.798754 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye5/Eye2.png
+  artifactKey: Guid(7c9e4484267244ed8a158384148c5efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye5/Eye2.png using Guid(7c9e4484267244ed8a158384148c5efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f35c55c6fece8115ecdd4452c9034ab9') in 0.0107916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Basic_Resources/Backup_Eye5/Eye0.png
+  artifactKey: Guid(ecc7d04439c9c47829963d8f47c92945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Backup_Eye5/Eye0.png using Guid(ecc7d04439c9c47829963d8f47c92945) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb23adc2089e141bdfa6d7465ded9e5f') in 0.0087886 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064819 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/7_Back/Back_1.png
+  artifactKey: Guid(28e59b8a1aa61e543bdb55515a957a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/7_Back/Back_1.png using Guid(28e59b8a1aa61e543bdb55515a957a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0468e26bffc67155943d920c5c881538') in 0.016723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077752 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Archer_1.png
+  artifactKey: Guid(edf152a1706eb4dd59ba7134956a9444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Archer_1.png using Guid(edf152a1706eb4dd59ba7134956a9444) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1d1a209013af3e2a45f1c498b32f279') in 0.011664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036299 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Healer_2.png
+  artifactKey: Guid(6ec1d69dea61345c4b304b5a2b2e09f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Healer_2.png using Guid(6ec1d69dea61345c4b304b5a2b2e09f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c9d52b9fa311c90bf3343376f48994e') in 0.0112432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036952 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Knight_2.png
+  artifactKey: Guid(a7f33171202e24634a3f13d10cfc31e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Knight_2.png using Guid(a7f33171202e24634a3f13d10cfc31e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6752636ead2a214000659e04dcb3a11') in 0.0128396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Sorcerer.png
+  artifactKey: Guid(c4b68354c83b74f5487e6ce182333f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/7_Back/Back_Sorcerer.png using Guid(c4b68354c83b74f5487e6ce182333f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '560da489f61d81f491d427f91e8f2ded') in 0.0109309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008708 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_045.png
+  artifactKey: Guid(daf11c3cedbdbfb4f95a90cb72861f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_045.png using Guid(daf11c3cedbdbfb4f95a90cb72861f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0420a2f1e9083b75662ee9ebb5ae0e6') in 0.0157248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023827 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_112.png
+  artifactKey: Guid(5c50b696ea9e93e4e98a9d47a4379ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_112.png using Guid(5c50b696ea9e93e4e98a9d47a4379ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c26f90b316bfb1896d6bbfc243c9bbe') in 0.0163405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021781 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_202.png
+  artifactKey: Guid(388bbe38b1d68364eb10656db4d9864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_202.png using Guid(388bbe38b1d68364eb10656db4d9864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5aad5390d932b1c3ee0552ccb36d2224') in 0.0155911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001321 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_270.png
+  artifactKey: Guid(6ae251ea01a0af74e8b6f20b7f7728d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_270.png using Guid(6ae251ea01a0af74e8b6f20b7f7728d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88814340d9a5aa9690c2bf67ac11ebc6') in 0.0149729 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020994 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_315.png
+  artifactKey: Guid(feebf777eb8083e43aa34bfd6910b7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_315.png using Guid(feebf777eb8083e43aa34bfd6910b7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94e117dec64709125d2562ce96df2f00') in 0.0147783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046707 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_022.png
+  artifactKey: Guid(9e4fc68d0398d42488bb4df561dfd0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_022.png using Guid(9e4fc68d0398d42488bb4df561dfd0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0082c413bd05bdf5b4cd5a9c04b0f76e') in 0.0148009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023216 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_090.png
+  artifactKey: Guid(6cfc744180b8bec449a8f0990f775605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_090.png using Guid(6cfc744180b8bec449a8f0990f775605) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6eb343552000ac54e17b0b989c812469') in 0.0205487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_157.png
+  artifactKey: Guid(aa057c984f2ddf748876ada6d6935d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_157.png using Guid(aa057c984f2ddf748876ada6d6935d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f07e87ec6eed5793e54a1daea1098f1') in 0.0164478 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_247.png
+  artifactKey: Guid(c01b3144f7f6b8248a1ac8ef0389117b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_247.png using Guid(c01b3144f7f6b8248a1ac8ef0389117b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a352afba5e317778d81a7a32b31748d') in 0.015727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.281345 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_337.png
+  artifactKey: Guid(e0f6c3c5b0b7c064f9176bde779fd4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_337.png using Guid(e0f6c3c5b0b7c064f9176bde779fd4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c7f2deb04e4d5c9b16f2debc78fd173') in 0.0323867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.346566 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_112.png
+  artifactKey: Guid(ce310c31b0479424b8a9a64b660be5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_112.png using Guid(ce310c31b0479424b8a9a64b660be5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95dd6bc63f9d83e7710e2e96aa87b36e') in 0.0135051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094152 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_180.png
+  artifactKey: Guid(bf8ac1ee856ffef4eb295900682d3587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_180.png using Guid(bf8ac1ee856ffef4eb295900682d3587) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b450730162d0ad4cdf1c04eccce22f9c') in 0.0162861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032107 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_247.png
+  artifactKey: Guid(b9a6efcb7628310498e14f30e1c647e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_247.png using Guid(b9a6efcb7628310498e14f30e1c647e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b9fdce3442c9f98227aa9a70ac18a6c') in 0.0136344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094443 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_315.png
+  artifactKey: Guid(7dedbe815615ff44b8a34daa53bd6162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_315.png using Guid(7dedbe815615ff44b8a34daa53bd6162) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e7833a31abe7a85cc3e4dc9e87236a7') in 0.0135129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018031 seconds.
+  path: Assets/SPUM/Basic_Resources/UI/Basic Outline.png
+  artifactKey: Guid(c8a47b132ee4eff48bfeb344ad857e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/UI/Basic Outline.png using Guid(c8a47b132ee4eff48bfeb344ad857e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f05b5b6978fb0bc26c2b3f5493b925ad') in 0.0140505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009664 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Archer_1.png
+  artifactKey: Guid(36421b1fdbe864938aed2af4c0772f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Archer_1.png using Guid(36421b1fdbe864938aed2af4c0772f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69e0e7552ed2f1b79552fbd0ddd7a5db') in 0.021291 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.496 seconds
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.537 seconds
-Domain Reload Profiling: 1032ms
-	BeginReloadAssembly (141ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (38ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (18ms)
-	LoadAllAssembliesAndSetupDomain (305ms)
-		LoadAssemblies (211ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (157ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (142ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (537ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (412ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (77ms)
-			ProcessInitializeOnLoadAttributes (279ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
-			AfterProcessingInitializeOnLoad (5ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (4.3 MB). Loaded Objects now: 7329.
-Memory consumption went from 147.7 MB to 143.3 MB.
-Total: 6.595000 ms (FindLiveObjects: 0.661000 ms CreateObjectMapping: 0.229500 ms MarkObjects: 3.769100 ms  DeleteObjects: 1.934900 ms)
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Sorcerer.png
+  artifactKey: Guid(b50c5a1c23ea546f98ea5ec3be1337f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Sorcerer.png using Guid(b50c5a1c23ea546f98ea5ec3be1337f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01b5004afa9c9e1f0008ed7078d722a1') in 0.019299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.516 seconds
-Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.530 seconds
-Domain Reload Profiling: 1046ms
-	BeginReloadAssembly (145ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (36ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (18ms)
-	LoadAllAssembliesAndSetupDomain (322ms)
-		LoadAssemblies (220ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (168ms)
-			TypeCache.Refresh (5ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (153ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (530ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (407ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (276ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.6 MB). Loaded Objects now: 7331.
-Memory consumption went from 147.7 MB to 144.1 MB.
-Total: 6.253700 ms (FindLiveObjects: 0.667900 ms CreateObjectMapping: 0.363400 ms MarkObjects: 3.766700 ms  DeleteObjects: 1.455000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Import Request.
-  Time since last request: 369.801028 seconds.
-  path: Assets/Settings/Renderer2D.asset
-  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2807049b0fa67000373699debc83a30') in 0.0163304 seconds
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_09.png
+  artifactKey: Guid(91837876145ff43d4a8e8f457b708199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_09.png using Guid(91837876145ff43d4a8e8f457b708199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da09833b4d8bbae342eeba1927331327') in 0.0182809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.511 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.499 seconds
-Domain Reload Profiling: 1010ms
-	BeginReloadAssembly (145ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (19ms)
-	LoadAllAssembliesAndSetupDomain (315ms)
-		LoadAssemblies (225ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (157ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (142ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (499ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (377ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (248ms)
-			ProcessInitializeOnLoadMethodAttributes (46ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.9 MB). Loaded Objects now: 7333.
-Memory consumption went from 147.7 MB to 143.7 MB.
-Total: 6.364600 ms (FindLiveObjects: 0.680600 ms CreateObjectMapping: 0.245400 ms MarkObjects: 3.868000 ms  DeleteObjects: 1.570100 ms)
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_08.png
+  artifactKey: Guid(7e3224cd6fc3145d691ec45fdc8265fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_08.png using Guid(7e3224cd6fc3145d691ec45fdc8265fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cecd42333ce8f949d20ec38ea24c836') in 0.0382817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.515 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.528 seconds
-Domain Reload Profiling: 1043ms
-	BeginReloadAssembly (140ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (40ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (19ms)
-	LoadAllAssembliesAndSetupDomain (325ms)
-		LoadAssemblies (223ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (161ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (147ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (528ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (397ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (76ms)
-			ProcessInitializeOnLoadAttributes (264ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
-			AfterProcessingInitializeOnLoad (5ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.8 MB). Loaded Objects now: 7335.
-Memory consumption went from 147.7 MB to 143.9 MB.
-Total: 5.781100 ms (FindLiveObjects: 0.638000 ms CreateObjectMapping: 0.229100 ms MarkObjects: 3.467900 ms  DeleteObjects: 1.445400 ms)
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Sorceress.png
+  artifactKey: Guid(fbc4606fa5f3d44ee888a6703c0c0424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Sorceress.png using Guid(fbc4606fa5f3d44ee888a6703c0c0424) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '620fe91d1888de0b0e927363a449f7b3') in 0.0532441 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.502 seconds
-Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.514 seconds
-Domain Reload Profiling: 1016ms
-	BeginReloadAssembly (145ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (11ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (41ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (18ms)
-	LoadAllAssembliesAndSetupDomain (308ms)
-		LoadAssemblies (212ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (159ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (144ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (514ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (390ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (75ms)
-			ProcessInitializeOnLoadAttributes (259ms)
-			ProcessInitializeOnLoadMethodAttributes (46ms)
-			AfterProcessingInitializeOnLoad (5ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (4.0 MB). Loaded Objects now: 7337.
-Memory consumption went from 147.7 MB to 143.7 MB.
-Total: 6.675700 ms (FindLiveObjects: 0.740600 ms CreateObjectMapping: 0.315400 ms MarkObjects: 3.956400 ms  DeleteObjects: 1.662500 ms)
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Archer_2.png
+  artifactKey: Guid(e7a1ab8305fcb4e6592557e7915e0409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/2_Cloth/Cloth_Archer_2.png using Guid(e7a1ab8305fcb4e6592557e7915e0409) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5308bdd08113881da6f860fbbb357a9e') in 0.0174124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.511 seconds
-Refreshing native plugins compatible for Editor in 0.97 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.529 seconds
-Domain Reload Profiling: 1041ms
-	BeginReloadAssembly (152ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (19ms)
-	LoadAllAssembliesAndSetupDomain (308ms)
-		LoadAssemblies (228ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (154ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (140ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (530ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (403ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (77ms)
-			ProcessInitializeOnLoadAttributes (272ms)
-			ProcessInitializeOnLoadMethodAttributes (44ms)
-			AfterProcessingInitializeOnLoad (5ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (4.0 MB). Loaded Objects now: 7339.
-Memory consumption went from 147.7 MB to 143.7 MB.
-Total: 6.409600 ms (FindLiveObjects: 0.591600 ms CreateObjectMapping: 0.411600 ms MarkObjects: 3.669700 ms  DeleteObjects: 1.736100 ms)
+Received Import Request.
+  Time since last request: 0.015449 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/5_Armor/Normal_Armor1.png
+  artifactKey: Guid(8e2ee760cea01a640bf6b790a349b6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/5_Armor/Normal_Armor1.png using Guid(8e2ee760cea01a640bf6b790a349b6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '666c0e5dbf31e2f27ce30cfd10143f71') in 0.0207215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.500 seconds
-Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.532 seconds
-Domain Reload Profiling: 1033ms
-	BeginReloadAssembly (137ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (36ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (19ms)
-	LoadAllAssembliesAndSetupDomain (314ms)
-		LoadAssemblies (219ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (155ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (139ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (532ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (391ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (263ms)
-			ProcessInitializeOnLoadMethodAttributes (45ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 1.08 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.9 MB). Loaded Objects now: 7341.
-Memory consumption went from 147.7 MB to 143.7 MB.
-Total: 6.774200 ms (FindLiveObjects: 0.887300 ms CreateObjectMapping: 0.381900 ms MarkObjects: 3.832000 ms  DeleteObjects: 1.672300 ms)
+Received Import Request.
+  Time since last request: 0.030684 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_02.png
+  artifactKey: Guid(d1bc3ad920b0d41c5b5d8aff14f0dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_02.png using Guid(d1bc3ad920b0d41c5b5d8aff14f0dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd844ccebe8ae80387451c15a391db95d') in 0.0139815 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.512 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.539 seconds
-Domain Reload Profiling: 1053ms
-	BeginReloadAssembly (145ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (38ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (18ms)
-	LoadAllAssembliesAndSetupDomain (319ms)
-		LoadAssemblies (221ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (163ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (144ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (539ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (412ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (75ms)
-			ProcessInitializeOnLoadAttributes (282ms)
-			ProcessInitializeOnLoadMethodAttributes (45ms)
-			AfterProcessingInitializeOnLoad (5ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.8 MB). Loaded Objects now: 7343.
-Memory consumption went from 147.7 MB to 143.9 MB.
-Total: 7.316400 ms (FindLiveObjects: 0.779000 ms CreateObjectMapping: 0.575700 ms MarkObjects: 4.041500 ms  DeleteObjects: 1.919700 ms)
+Received Import Request.
+  Time since last request: 0.072767 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/5_Armor/Armor_Rogue_1.png
+  artifactKey: Guid(6f3d1631932544df184a5799f81cd020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/5_Armor/Armor_Rogue_1.png using Guid(6f3d1631932544df184a5799f81cd020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3df93df78cf0f2c30ee35c0f3134003a') in 0.0154091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
-Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.508 seconds
-Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.521 seconds
-Domain Reload Profiling: 1030ms
-	BeginReloadAssembly (143ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (38ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (19ms)
-	LoadAllAssembliesAndSetupDomain (314ms)
-		LoadAssemblies (217ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (162ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (147ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (522ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (393ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (79ms)
-			ProcessInitializeOnLoadAttributes (256ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6625 unused Assets / (3.8 MB). Loaded Objects now: 7345.
-Memory consumption went from 147.7 MB to 143.9 MB.
-Total: 7.077800 ms (FindLiveObjects: 0.738600 ms CreateObjectMapping: 0.337300 ms MarkObjects: 4.341200 ms  DeleteObjects: 1.660000 ms)
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/5_Armor/Armor_Healer_2.png
+  artifactKey: Guid(49423b4162297451dbe1ac75f9b87dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/5_Armor/Armor_Healer_2.png using Guid(49423b4162297451dbe1ac75f9b87dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '226b9b07c5185cac4550979185e8c507') in 0.0117246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
-Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_10.png
+  artifactKey: Guid(ad98517497e964b00add5977d2257a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Cloth/New_Cloth_10.png using Guid(ad98517497e964b00add5977d2257a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9152a38a3fb4277f59292b2cea6aea1') in 0.0240543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_12.png
+  artifactKey: Guid(fa1984f46ef804b5b814b834d6b8c754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_12.png using Guid(fa1984f46ef804b5b814b834d6b8c754) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f694319828c511bdac17f0b6601b2ee8') in 0.0128063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_07.png
+  artifactKey: Guid(cdf6ea08334f54b81b8e1bfb81a896c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_07.png using Guid(cdf6ea08334f54b81b8e1bfb81a896c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1757b324f596efd3b6e53ec2c08fc7f4') in 0.0208117 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013450 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_03.png
+  artifactKey: Guid(8ba3b6e1f45dc4bc994e67fb1591c169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/7_Armor/New_Armor_03.png using Guid(8ba3b6e1f45dc4bc994e67fb1591c169) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afcf690c189f6e7fe1a95beaac88f7c6') in 0.0134517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.468900 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_8.png
+  artifactKey: Guid(61f60bf66a0684be3b448f6e237a3f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_8.png using Guid(61f60bf66a0684be3b448f6e237a3f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1ab813103a7d102faa411d308757af7') in 0.0324568 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026155 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_6.png
+  artifactKey: Guid(8ada8c9e757cf49d8a0418a5be86796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_6.png using Guid(8ada8c9e757cf49d8a0418a5be86796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51e2bccf3f662e69eaab82ad55929791') in 0.0117329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048660 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_3.png
+  artifactKey: Guid(fbddd4306af2b47458c43097d5b91f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_3.png using Guid(fbddd4306af2b47458c43097d5b91f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2da408aff73ed265127179e85c96d2c6') in 0.0159852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008525 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_5.png
+  artifactKey: Guid(304386aad927e4d3281f05c505bb4f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/5_Armor/Armor_5.png using Guid(304386aad927e4d3281f05c505bb4f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e13e25e9621ec58afdf28d9f226dde54') in 0.0203607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/2_Cloth/Cloth_9.png
+  artifactKey: Guid(02da32778b3134ca7bdaa2b2d96911a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/2_Cloth/Cloth_9.png using Guid(02da32778b3134ca7bdaa2b2d96911a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f188aa0df7c13710be93244e8c7dd51') in 0.0112932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/2_Cloth/F_SR_Cloth.png
+  artifactKey: Guid(bb53a852f02d94491bd324185eaa77ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/2_Cloth/F_SR_Cloth.png using Guid(bb53a852f02d94491bd324185eaa77ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b96f65ff5daf871916b7ea2136db363d') in 0.0170521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.700252 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_022.png
+  artifactKey: Guid(39a85ac3706bb28459d6db6bc15af992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_022.png using Guid(39a85ac3706bb28459d6db6bc15af992) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58880b2fbec62f33545f8d1b796d8ec3') in 0.0154377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.191478 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_135.png
+  artifactKey: Guid(021aaee1f185a3b4fb25ad9cf86dca24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_135.png using Guid(021aaee1f185a3b4fb25ad9cf86dca24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b92af4569c0ca580d44bcbb7003c587') in 0.0172003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081739 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_180.png
+  artifactKey: Guid(47395fe2d096e20478efb521981a8937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_180.png using Guid(47395fe2d096e20478efb521981a8937) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76d30dd6169a0f40d3de88abd91ddb89') in 0.0140222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_247.png
+  artifactKey: Guid(f2c9dcac2ec43fa4fb44480d39fdda2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_247.png using Guid(f2c9dcac2ec43fa4fb44480d39fdda2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c1eae4e95207573bbb6e440f892b1bf') in 0.0229371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.384179 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_337.png
+  artifactKey: Guid(741a8d1a011ceb44b90b8114a32bc477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_337.png using Guid(741a8d1a011ceb44b90b8114a32bc477) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '917c933cbb4ef2521c39a9095cd3d9b6') in 0.0147239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001659 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_022.png
+  artifactKey: Guid(c54d9031946883644a57e3ea92c2c23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_022.png using Guid(c54d9031946883644a57e3ea92c2c23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8475e2c2c08b0f5d2645efee74f0a909') in 0.0130314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_067.png
+  artifactKey: Guid(401582a24f6b91f42929e5a114359269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_067.png using Guid(401582a24f6b91f42929e5a114359269) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65e0b9a44048906e7375c28af0251a34') in 0.0164314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026378 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_112.png
+  artifactKey: Guid(46d549de3d0a5cf48b8bb4dd7e41d630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_112.png using Guid(46d549de3d0a5cf48b8bb4dd7e41d630) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f63b147a35899e8c58b842a6a6765be') in 0.0143347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070582 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_225.png
+  artifactKey: Guid(f397ffeff33b0e3428808c8a75494679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_225.png using Guid(f397ffeff33b0e3428808c8a75494679) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a490f588f500eaad00f350d433dd87f') in 0.0129286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_270.png
+  artifactKey: Guid(50d960b670cac20468de363139c74898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_270.png using Guid(50d960b670cac20468de363139c74898) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65a3425a9b649ef7b48b5e514abbf80d') in 0.0131188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027387 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_335.png
+  artifactKey: Guid(06508f80f5d6b5c44b03688773fb0e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_335.png using Guid(06508f80f5d6b5c44b03688773fb0e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a1d9fc043a117a20f0444321acb64346') in 0.0147367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012426 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_022.png
+  artifactKey: Guid(061cf55743123ff459ac49bc6b98a5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_022.png using Guid(061cf55743123ff459ac49bc6b98a5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22fa51cc4fe0e687bd780a11be4bad20') in 0.0157683 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004957 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_090.png
+  artifactKey: Guid(416a05fc830ec6d47beb42735120687b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_090.png using Guid(416a05fc830ec6d47beb42735120687b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bce4b5da40689c863ecbb6cc8e56d4d') in 0.0274789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.974767 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_157.png
+  artifactKey: Guid(246f1cf5a59f7e44197186a0d39e1f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_157.png using Guid(246f1cf5a59f7e44197186a0d39e1f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08654d2e6cb99acfbdf846fd1e0af30d') in 0.0140338 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_247.png
+  artifactKey: Guid(84be4f4ce31cbf74fa78557aefa1498c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_247.png using Guid(84be4f4ce31cbf74fa78557aefa1498c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bbae853fe9f24b2fb4b67d769dfc94e') in 0.0141605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013035 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_292.png
+  artifactKey: Guid(b04de01ffb6385c499b939ff6d2b3489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_292.png using Guid(b04de01ffb6385c499b939ff6d2b3489) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fad996ee7d9f21b60b586ac2d3c26674') in 0.0123891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015020 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_337.png
+  artifactKey: Guid(6c0f83f44484cff4e907cb5c38ddc110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_337.png using Guid(6c0f83f44484cff4e907cb5c38ddc110) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3401393d92358fda10d00d8d09b5974e') in 0.013391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053202 seconds.
+  path: Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/bonus shadows.png
+  artifactKey: Guid(7f778f4aa22041049965543e325cbbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/bonus shadows.png using Guid(7f778f4aa22041049965543e325cbbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cbd3dda15411e3799fd592da2200a4a') in 0.0187654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.298484 seconds.
+  path: Assets/Sprites/21.02a - Royal Garden 1.1/sample map/bonus summer grass and dirt.png
+  artifactKey: Guid(ca86782821902fd438a458c2002be770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.02a - Royal Garden 1.1/sample map/bonus summer grass and dirt.png using Guid(ca86782821902fd438a458c2002be770) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3e0bc9c46ac36c08e6e1aef96fa7afd') in 0.013201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.425598 seconds.
+  path: Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/bonus wooden stairs.png
+  artifactKey: Guid(ef1910019e78ea64fa78e493b8dcb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/bonus wooden stairs.png using Guid(ef1910019e78ea64fa78e493b8dcb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7254e226ba7f4b46133ee0370b615185') in 0.1623093 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 149
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.871423 seconds.
+  path: Assets/SPUM/Sprite_SheetExporter(Beta)/Res/Box.png
+  artifactKey: Guid(6c52bbcff1f804ba1b9435a920cb9303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Sprite_SheetExporter(Beta)/Res/Box.png using Guid(6c52bbcff1f804ba1b9435a920cb9303) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a75a77adabe5e1ed9f52269a6afd358') in 0.0100234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.567515 seconds.
+  path: Assets/Sprites/21.08b - Bridges & More 2.2/bridges & more v3.png
+  artifactKey: Guid(dd09f04f0f06c9241b5fb518254fd1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.08b - Bridges & More 2.2/bridges & more v3.png using Guid(dd09f04f0f06c9241b5fb518254fd1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f91f0a2d2ee9b7e008a47abdb036a32') in 0.0714622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.691768 seconds.
+  path: Assets/Sprites/Canon/Cañon_quieto.png
+  artifactKey: Guid(42d8495fab74a4e409dc1fc39477f5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Canon/Cañon_quieto.png using Guid(42d8495fab74a4e409dc1fc39477f5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41678b481238a4d075bf3dbfc147c6e8') in 0.0135997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030392 seconds.
+  path: Assets/Sprites/Signs and objects/Destructible Objects Sprite Sheet.png
+  artifactKey: Guid(997d4c53875440240bdd16e3f0c0aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Signs and objects/Destructible Objects Sprite Sheet.png using Guid(997d4c53875440240bdd16e3f0c0aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e32e75f57a60038b147437f521ca05a7') in 0.2142744 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 103
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/24.07a - Fortified Keep 1.2/fortified keep 48x48.png
+  artifactKey: Guid(d0acc92f75cfea94aa1bd02e18894438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/24.07a - Fortified Keep 1.2/fortified keep 48x48.png using Guid(d0acc92f75cfea94aa1bd02e18894438) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68d0d365c7e36e761fcbe9e0fcf408dd') in 0.0428786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.208347 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Healer_1.png
+  artifactKey: Guid(db83e027f960b4aecb3457829736c4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Healer_1.png using Guid(db83e027f960b4aecb3457829736c4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '092b8cd36bec0dcab5a51dcf786020b7') in 0.0153265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013926 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Healer_2.png
+  artifactKey: Guid(e789046b1cc2246fea41ecc948eb52c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Healer_2.png using Guid(e789046b1cc2246fea41ecc948eb52c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'efd59983f64463d77dbfd2572ebc2b37') in 0.0109987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062989 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Rogue_1.png
+  artifactKey: Guid(077f5911748184427b11e0d6b0c274a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Rogue_1.png using Guid(077f5911748184427b11e0d6b0c274a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6171fe4d1ae80906f07aea601e38bdc1') in 0.011265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033682 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Sorceress.png
+  artifactKey: Guid(0121db75e476b487fa4b22615e9e840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/0_Hair/Hair_Sorceress.png using Guid(0121db75e476b487fa4b22615e9e840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9729f64607bce3022b7bb26e2611aa76') in 0.0107752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007075 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_2.png
+  artifactKey: Guid(9eeb20468ab8448d6aa001c44dfc7b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_2.png using Guid(9eeb20468ab8448d6aa001c44dfc7b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e7dc0bf6baea8718c51aa119826e0ac') in 0.011484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009606 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_5.png
+  artifactKey: Guid(7af5ad218eb4047749e482ba17094655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_5.png using Guid(7af5ad218eb4047749e482ba17094655) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33690d550a8fbdc098cdcf801054e57a') in 0.0116821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_7.png
+  artifactKey: Guid(d154430219e04402a86a4afa191e57b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/4_Helmet/Helmet_7.png using Guid(d154430219e04402a86a4afa191e57b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68dfbd9f3c7060ed45bacb00a7abe42c') in 0.0105361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082660 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Archer_2.png
+  artifactKey: Guid(2c567b16a13d945209f751053afe3fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Archer_2.png using Guid(2c567b16a13d945209f751053afe3fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59c73e8b864e4e54e2cd2e24a4b99dc2') in 0.012221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009843 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Healer_2.png
+  artifactKey: Guid(f311075cd9f1c4d51b84e25ae031df82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Healer_2.png using Guid(f311075cd9f1c4d51b84e25ae031df82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57285dc5981fdbdb5721a2ec7b80c641') in 0.0114942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067210 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Sorcerer.png
+  artifactKey: Guid(f6c344bdabddf4f1d8cc47945cdad909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/4_Helmet/Helmet_Sorcerer.png using Guid(f6c344bdabddf4f1d8cc47945cdad909) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28c17e9fa20a010565bf62e56ca4f08d') in 0.0123816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/SPUM/Basic_Resources/Package/Image/HelpImage.png
+  artifactKey: Guid(e7611cf8075d61543a0810e6ea9aed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Basic_Resources/Package/Image/HelpImage.png using Guid(e7611cf8075d61543a0810e6ea9aed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a544b83e3fad512bbfd3592dfc4a79a') in 0.0131618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061713 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/3_Pant/Pant_Rogue_2.png
+  artifactKey: Guid(e7744aef89ec54890b94be6c6f34ff87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/3_Pant/Pant_Rogue_2.png using Guid(e7744aef89ec54890b94be6c6f34ff87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28f6029c141d1e58ad304d44e68ec953') in 0.0128592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026797 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/3_Pant/Pant_Archer_2.png
+  artifactKey: Guid(d71632c7a95ba4b0ebb77cc484f78047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/3_Pant/Pant_Archer_2.png using Guid(d71632c7a95ba4b0ebb77cc484f78047) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f96f4364d2c4ce9c42eb27d26d1d185f') in 0.010514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030447 seconds.
+  path: Assets/SPUM/Sample/Materials/samplebutton.png
+  artifactKey: Guid(ff3a13f848717354d9eb56697565c1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Sample/Materials/samplebutton.png using Guid(ff3a13f848717354d9eb56697565c1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fabb44b6961eca1de9efa5ebc13cc53') in 0.0108012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923545 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/3_Shield/Shield_1.png
+  artifactKey: Guid(5364a532c77cd43bc8549a556cb49758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/3_Shield/Shield_1.png using Guid(5364a532c77cd43bc8549a556cb49758) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d7cdd5d6d108829d90729a1e7233e5e') in 0.0115235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029272 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/3_Shield/Shield_Sorcerer.png
+  artifactKey: Guid(f3c534b5073be4fcd91b4932cbeef08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/3_Shield/Shield_Sorcerer.png using Guid(f3c534b5073be4fcd91b4932cbeef08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eccd9561b6e1b088e158206ec1312069') in 0.0103618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/4_Spear/Soon_Spear.png
+  artifactKey: Guid(8d2e32343359643008ec8b92017bbf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/4_Spear/Soon_Spear.png using Guid(8d2e32343359643008ec8b92017bbf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0e7b7fd5282b8a3ab26fd47ba688187') in 0.0123907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035329 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/0_Sword/Sword_2.png
+  artifactKey: Guid(400f84ca50ac94f20a75a7ecfbe2cfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/0_Sword/Sword_2.png using Guid(400f84ca50ac94f20a75a7ecfbe2cfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d50519eff390b4a904c1fb313a3019b') in 0.0120854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/0_Sword/Sword_4.png
+  artifactKey: Guid(f9cdd1844b02d4c81989b265d121a78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/6_Weapons/0_Sword/Sword_4.png using Guid(f9cdd1844b02d4c81989b265d121a78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91af612ce98eb8330fb95061a5dac26b') in 0.0123569 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103432 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/2_Bow/Weapon_Archer_2.png
+  artifactKey: Guid(e9d52d84192d04ddaaabe3d6f9b7c905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/2_Bow/Weapon_Archer_2.png using Guid(e9d52d84192d04ddaaabe3d6f9b7c905) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0896531a499ea33ffb66e4c0649e99a1') in 0.0125966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/7_Dagger/Weapon_Rogue_1.png
+  artifactKey: Guid(d23019335563a4b84a3586e1a01324e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/7_Dagger/Weapon_Rogue_1.png using Guid(d23019335563a4b84a3586e1a01324e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0da3e9cf08ae7653e2b7a3cf110ec12') in 0.0119918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/5_Wand/Weapon_Sorceress.png
+  artifactKey: Guid(d7d4577638ecc45e6ba3faa09382ad3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/RetroHeroes/0_Unit/0_Sprite/6_Weapons/5_Wand/Weapon_Sorceress.png using Guid(d7d4577638ecc45e6ba3faa09382ad3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '307d773d6fb0c323b75b75f2495befe9') in 0.0118101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005608 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/7_Shield/WoodShield3.png
+  artifactKey: Guid(7ac296aa739462b4a874bf49cb637f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver121/0_Unit/0_Sprite/6_Weapons/7_Shield/WoodShield3.png using Guid(7ac296aa739462b4a874bf49cb637f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4686d6699a47f18531172d0b03a508eb') in 0.0135727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.779685 seconds.
+  path: Assets/Sprites/21.02a - Royal Garden 1.1/royal animations/royal garden, small fountain v02.png
+  artifactKey: Guid(9e149ef26361a6043b11735e0ee3c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.02a - Royal Garden 1.1/royal animations/royal garden, small fountain v02.png using Guid(9e149ef26361a6043b11735e0ee3c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f68a1942bb28a326e038b15d69dfc25c') in 0.0201974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025010 seconds.
+  path: Assets/Sprites/21.02a - Royal Garden 1.1/royal sheets/royal 32x32 v01.png
+  artifactKey: Guid(df431392dda144c4d8adb7c584a0cdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.02a - Royal Garden 1.1/royal sheets/royal 32x32 v01.png using Guid(df431392dda144c4d8adb7c584a0cdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b84b5ca9e6989a0332843dbb73a3eb7d') in 0.0243728 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051134 seconds.
+  path: Assets/Sprites/21.02a - Royal Garden 1.1/royal sheets/royal garden v02.png
+  artifactKey: Guid(e0f0de039f0be004b851609f4c7fb546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.02a - Royal Garden 1.1/royal sheets/royal garden v02.png using Guid(e0f0de039f0be004b851609f4c7fb546) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54898245ea656acd476d32bd43d086df') in 0.0131475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/21.02a - Royal Garden 1.1/royal animations/royal garden, big fountain v02.png
+  artifactKey: Guid(2fc6bd3f63e36924e97389fd56ee9abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/21.02a - Royal Garden 1.1/royal animations/royal garden, big fountain v02.png using Guid(2fc6bd3f63e36924e97389fd56ee9abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '253fe956069b81a6ded410807bc0290b') in 0.0262659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024711 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0002.png
+  artifactKey: Guid(2ddea88cad6550b4bbdc081a191f8cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0002.png using Guid(2ddea88cad6550b4bbdc081a191f8cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a32723a48114c2db041a85c2a41e8e48') in 0.0156309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0005.png
+  artifactKey: Guid(d87f9190b178c2348bac456893ef4f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0005.png using Guid(d87f9190b178c2348bac456893ef4f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a62b86589dc0cba72610d13143f31ee2') in 0.0144913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019373 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0009.png
+  artifactKey: Guid(8003c97c54ea3f54ea1fec3a358f1d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/292/Reload_n_Shot_withShadow_292_0009.png using Guid(8003c97c54ea3f54ea1fec3a358f1d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a235fa0804bc56b7373dbe66d447b30') in 0.0153407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006790 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0003.png
+  artifactKey: Guid(299e6a65d6492d54da0d92c3c70a2ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0003.png using Guid(299e6a65d6492d54da0d92c3c70a2ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dd38fcce620ea6ffb1c464f6349fa02') in 0.0148894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065231 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0006.png
+  artifactKey: Guid(748a87571e26c9647b98ff807e5be12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0006.png using Guid(748a87571e26c9647b98ff807e5be12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0c414b7c8f593873e0dc935c7c005eb') in 0.0159138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013901 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0008.png
+  artifactKey: Guid(b68d4b4295295644d8f17d656aa358cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/315/Reload_n_Shot_withShadow_315_0008.png using Guid(b68d4b4295295644d8f17d656aa358cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '651ffb853068d7c2567126ed140d51a3') in 0.0160288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021353 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0003.png
+  artifactKey: Guid(2b02ac678a60b654f861f64074eba00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0003.png using Guid(2b02ac678a60b654f861f64074eba00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58246cf2dfc7c3ba3520419f576b2cb5') in 0.0138921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008751 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0005.png
+  artifactKey: Guid(8c2112dff140de94c9e80422a1d1dbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0005.png using Guid(8c2112dff140de94c9e80422a1d1dbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2698e4a0b0b7840200fbb07fe8784d60') in 0.018805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0009.png
+  artifactKey: Guid(5db08d510409ee943b9d833cc9851dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/337/Reload_n_Shot_withShadow_337_0009.png using Guid(5db08d510409ee943b9d833cc9851dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f41c8c3858659518bf2ed919235e3a19') in 0.2487973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/5_Pant/New_Pant_09.png
+  artifactKey: Guid(e12314fa70008464fa8d15d08fffd50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/5_Pant/New_Pant_09.png using Guid(e12314fa70008464fa8d15d08fffd50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4e29cb298b8efd3eef5c70ebbff5200') in 0.015439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/3_Pant/Foot_1.png
+  artifactKey: Guid(4f4d6264408da453a8511876ebec8ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/3_Pant/Foot_1.png using Guid(4f4d6264408da453a8511876ebec8ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fdc2330b2b826745cb61ffbe2804b5dd') in 0.0150214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012975 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/5_Pant/New_Pant_01.png
+  artifactKey: Guid(a4b630b105c514614b9ba9d9937fef5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/5_Pant/New_Pant_01.png using Guid(a4b630b105c514614b9ba9d9937fef5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '367c8156c290301b7f98f9dd688335ec') in 0.0312544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045928 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/10_Back/New_Back_02.Png
+  artifactKey: Guid(781fb783fec5147eabfdef1c7fdc7e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/10_Back/New_Back_02.Png using Guid(781fb783fec5147eabfdef1c7fdc7e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '370492115fec392424b4f7a588099605') in 0.0254149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019456 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_04.png
+  artifactKey: Guid(555fa4a87b6b8459ba08a841fb8e1f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_04.png using Guid(555fa4a87b6b8459ba08a841fb8e1f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b118804928eb1a2cfeff156811a4313') in 0.0386366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011118 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_07.png
+  artifactKey: Guid(f32b27de9394bf3489d83d11bf523f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_07.png using Guid(f32b27de9394bf3489d83d11bf523f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8164a67877b5fd2c8e83b08fb0102302') in 0.0489784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012600 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_10.png
+  artifactKey: Guid(80e0cccdaf539a44c89e4d96d0fcfb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_10.png using Guid(80e0cccdaf539a44c89e4d96d0fcfb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85c4d093439233a3215146c36abc8312') in 0.0445959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017787 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_15.png
+  artifactKey: Guid(417e081ac47ec7446b1b9a119ad36394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_15.png using Guid(417e081ac47ec7446b1b9a119ad36394) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c60567f829c0d8f93a01b4840d2d75b') in 0.0335522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178131 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_20.png
+  artifactKey: Guid(b7c72ebe62ba01e4f8be989021267fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/2_Hair/New_Hair_20.png using Guid(b7c72ebe62ba01e4f8be989021267fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28f3a674e31cd969a454feea079a4718') in 0.0160044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038954 seconds.
+  path: Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Helmet/New_Helmet_02.png
+  artifactKey: Guid(a79f145e10eea4e999334e278812b365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Ver300/0_Unit/0_Sprite/4_Helmet/New_Helmet_02.png using Guid(a79f145e10eea4e999334e278812b365) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f06baa236643b24a4636b8356aeeaaa') in 0.0115572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.496426 seconds.
+  path: Assets/Sprites/20.10b - Grand Library 2.2/sliceable objects/grand library 16x32 v03.png
+  artifactKey: Guid(68f320d3d757a094ca6eb29309b02ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/20.10b - Grand Library 2.2/sliceable objects/grand library 16x32 v03.png using Guid(68f320d3d757a094ca6eb29309b02ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1451e35468aecd7fc0be69bca3a96a20') in 0.0312922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002650 seconds.
+  path: Assets/Sprites/20.10b - Grand Library 2.2/grand library v01.png
+  artifactKey: Guid(e5fbbf0c0c4bda8479b92417a65f0358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/20.10b - Grand Library 2.2/grand library v01.png using Guid(e5fbbf0c0c4bda8479b92417a65f0358) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '477f42f0a1f8e93996cf778753b26fb9') in 0.0149695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007480 seconds.
+  path: Assets/Sprites/20.10b - Grand Library 2.2/bookshelves/grand library, empty bookshelf A v01.png
+  artifactKey: Guid(5afff9b2e8f66cc498e1b14085942a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/20.10b - Grand Library 2.2/bookshelves/grand library, empty bookshelf A v01.png using Guid(5afff9b2e8f66cc498e1b14085942a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3e1afc0705dc752958a284ae8b5167f') in 0.0112786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037523 seconds.
+  path: Assets/Sprites/20.10b - Grand Library 2.2/bookshelves/grand library, empty bookshelf B v03.png
+  artifactKey: Guid(13a76de9e45f2fc41b6cc56ac926128e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/20.10b - Grand Library 2.2/bookshelves/grand library, empty bookshelf B v03.png using Guid(13a76de9e45f2fc41b6cc56ac926128e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31f05f503c9fe382a27cee4e2844544d') in 0.0140555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Hair/Hair_3.png
+  artifactKey: Guid(0f4813b52b3b74ca6a74d7027ead4b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Hair/Hair_3.png using Guid(0f4813b52b3b74ca6a74d7027ead4b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49a64e238725b16613d22f9a88b0a401') in 0.0176047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Hair/Hair_8.png
+  artifactKey: Guid(e5b88e17b8b03471cac1ec6c79715e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/0_Hair/Hair_8.png using Guid(e5b88e17b8b03471cac1ec6c79715e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bca700ee2e1a0eba63c48baaec601a76') in 0.017324 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.161760 seconds.
+  path: Assets/Sprites/22.01a - Castle Dungeon 1.3/sample maps/castle dungeon.png
+  artifactKey: Guid(1f82b8f55baa0694c9a1e6b229d5a39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/22.01a - Castle Dungeon 1.3/sample maps/castle dungeon.png using Guid(1f82b8f55baa0694c9a1e6b229d5a39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de624ff2b5d73f274943b9e0f3b73162') in 0.1147878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/collision & alpha.png
+  artifactKey: Guid(be92fe82ca2180c4cbe9ff027c8e5c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/24.07a - Fortified Keep 1.2/_extras/collision & alpha.png using Guid(be92fe82ca2180c4cbe9ff027c8e5c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '395b63835d40a67cbb11d8885e152b17') in 0.0218614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
