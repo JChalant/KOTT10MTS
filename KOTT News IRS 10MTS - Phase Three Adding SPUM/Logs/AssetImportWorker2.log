@@ -1,0 +1,1809 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 31904 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59343
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [2940]  Target information:
+
+Player connection [2940]  * "[IP] 192.168.50.58 [Port] 0 [Flags] 2 [Guid] 3529733354 [EditorId] 3529733354 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LTRCK6L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [2940] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [2940] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS - Phase Three Adding SPUM/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 7900 XTX (ID=0x744c)
+    Vendor:   ATI
+    VRAM:     24511 MB
+    Driver:   32.0.11027.2001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002870 seconds.
+- Loaded All Assemblies, in  0.259 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.231 seconds
+Domain Reload Profiling: 489ms
+	BeginReloadAssembly (92ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (97ms)
+		LoadAssemblies (90ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (96ms)
+			TypeCache.Refresh (95ms)
+				TypeCache.ScanAssembly (86ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (232ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (196ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (38ms)
+			ProcessInitializeOnLoadAttributes (102ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.615 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.573 seconds
+Domain Reload Profiling: 1186ms
+	BeginReloadAssembly (126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (414ms)
+		LoadAssemblies (253ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (233ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (75ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (574ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (472ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (308ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 219 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6629 unused Assets / (3.9 MB). Loaded Objects now: 7323.
+Memory consumption went from 180.5 MB to 176.6 MB.
+Total: 6.715200 ms (FindLiveObjects: 0.622400 ms CreateObjectMapping: 0.287700 ms MarkObjects: 4.158300 ms  DeleteObjects: 1.646400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1017493.292272 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/247/Reload_n_Shot_withShadow_247_0002.png
+  artifactKey: Guid(7796646a341a9d046aa739c173cdf2dc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/247/Reload_n_Shot_withShadow_247_0002.png using Guid(7796646a341a9d046aa739c173cdf2dc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8364955e71f91410519fa90e339d6988') in 0.1586239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0008.png
+  artifactKey: Guid(84c4f34d2aa5ee44c922c5168f8eb94f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0008.png using Guid(84c4f34d2aa5ee44c922c5168f8eb94f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '192ad0afc00e69ee962a2f99de3bce8e') in 0.0238422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_180.png
+  artifactKey: Guid(3bd1a2757ec934642977a99a4609e855) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_180.png using Guid(3bd1a2757ec934642977a99a4609e855) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '132bde8fe59e89bc4c2dc7cb00767877') in 0.0127098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/157
+  artifactKey: Guid(011bfe5f950011f48a4543600e7ca22f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/157 using Guid(011bfe5f950011f48a4543600e7ca22f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b7e742b6fad7f91edf0f370695c48d8') in 0.0058021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body
+  artifactKey: Guid(931edaa257020f346a606c3a6ae7747a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Addons/Legacy/0_Unit/0_Sprite/1_Body using Guid(931edaa257020f346a606c3a6ae7747a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '251c5198657c86a2ad078c7a4997840b') in 0.0002165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_337.png
+  artifactKey: Guid(90585aa01383a414eb1403ed67f185a1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_337.png using Guid(90585aa01383a414eb1403ed67f185a1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '279510b1d32f283af7e97dd3c350e5d0') in 0.0119806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/270/Reload_n_Shot_withShadow_270_0003.png
+  artifactKey: Guid(27b4c09d8270e334eb6b2dc4533409da) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/270/Reload_n_Shot_withShadow_270_0003.png using Guid(27b4c09d8270e334eb6b2dc4533409da) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f89e0e3185a7fec0c586699505b9d8a6') in 0.0146611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_135.png
+  artifactKey: Guid(5d387a8973dc0904f936c176c9e766e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Body_135.png using Guid(5d387a8973dc0904f936c176c9e766e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '80fe0453b6e314dc279ff90aca00e044') in 0.0125035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/270/Reload_n_Shot_withShadow_270_0005.png
+  artifactKey: Guid(f24c784a446759343b95ad55c885d6dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/270/Reload_n_Shot_withShadow_270_0005.png using Guid(f24c784a446759343b95ad55c885d6dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f4d2caf2ca58e0a42bcefc4e88715d2a') in 0.0146161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0008.png
+  artifactKey: Guid(b0ba1aa05d95bbb469c49c414c899a36) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0008.png using Guid(b0ba1aa05d95bbb469c49c414c899a36) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0ed9d94dfcf479b75c9b643cc15fe1b8') in 0.0236556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/247/Reload_n_Shot_withShadow_247_0006.png
+  artifactKey: Guid(1c14e9263b7dae44fb2d1098a509e69f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/247/Reload_n_Shot_withShadow_247_0006.png using Guid(1c14e9263b7dae44fb2d1098a509e69f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '47cf4c022fc72107db8639fabd5d4815') in 0.0178843 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0008.png
+  artifactKey: Guid(727acd777f6033d4cb3cc850ee597a84) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0008.png using Guid(727acd777f6033d4cb3cc850ee597a84) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '86c1e1d5d74f8bd7f9b1616b4ac9ec05') in 0.0207807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0001.png
+  artifactKey: Guid(d0686122f6a5bda43ba1cdddcf1bbd51) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0001.png using Guid(d0686122f6a5bda43ba1cdddcf1bbd51) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '32b6906c9d50c4583513ba5d63091d63') in 0.0144306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/202/Reload_n_Shot_withShadow_202_0007.png
+  artifactKey: Guid(7338a08fee015364daf919a15fe1e47c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/202/Reload_n_Shot_withShadow_202_0007.png using Guid(7338a08fee015364daf919a15fe1e47c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1fcdd5559c54ff2ca50a781409b0bf73') in 0.014362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/000/Reload_n_Shot_Body_000_0003.png
+  artifactKey: Guid(4a0a59e412cda5a4da6ad00e461066b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/000/Reload_n_Shot_Body_000_0003.png using Guid(4a0a59e412cda5a4da6ad00e461066b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f622dfb7c87c8bf8c67cb2fbbb9037d5') in 0.0205587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/045/Reload_n_Shot_withShadow_045_0002.png
+  artifactKey: Guid(d0bf2b146e4b9ee419c9582eb103c6d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/045/Reload_n_Shot_withShadow_045_0002.png using Guid(d0bf2b146e4b9ee419c9582eb103c6d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0345c63afc297c73ee2d08e6bb5a3742') in 0.014992 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0005.png
+  artifactKey: Guid(fe7b74bc3976a8447bd39ce70a1dffd5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0005.png using Guid(fe7b74bc3976a8447bd39ce70a1dffd5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '63434d154897fa7fe040f8afe31c21fa') in 0.013715 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/000/Reload_n_Shot_withShadow_000_0005.png
+  artifactKey: Guid(4e9bafca9397e3241b6174f5efb7a2ec) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/000/Reload_n_Shot_withShadow_000_0005.png using Guid(4e9bafca9397e3241b6174f5efb7a2ec) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '30cdb734f8fdbc9a26ce256ddfe68f49') in 0.0277335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112/Reload_n_Shot_Body_112_0009.png
+  artifactKey: Guid(c0cf6316c6d039a428cbc2590f40d65a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112/Reload_n_Shot_Body_112_0009.png using Guid(c0cf6316c6d039a428cbc2590f40d65a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'de25e6049fdf3984e8acd0b0f74ee675') in 0.0146422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/067/Reload_n_Shot_withShadow_067_0006.png
+  artifactKey: Guid(a57f3b9dd86672142b54f4e97b69e345) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/067/Reload_n_Shot_withShadow_067_0006.png using Guid(a57f3b9dd86672142b54f4e97b69e345) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8800ffb7b6450e1df9f2ca235491e62b') in 0.0150684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/090/Reload_n_Shot_withShadow_090_0002.png
+  artifactKey: Guid(172183768fc29ac4a9744452c3e50308) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/090/Reload_n_Shot_withShadow_090_0002.png using Guid(172183768fc29ac4a9744452c3e50308) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5330821ce22fbe6c38be939964ab57b2') in 0.013744 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/067/Reload_n_Shot_withShadow_067_0004.png
+  artifactKey: Guid(487677c5106fd6e4bb6221bdcb4deb40) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/067/Reload_n_Shot_withShadow_067_0004.png using Guid(487677c5106fd6e4bb6221bdcb4deb40) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2584bc70e21ad8dd33c8104e53b55a30') in 0.0211495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0004.png
+  artifactKey: Guid(f65ffe630095c274ebfe50edb3d36b76) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0004.png using Guid(f65ffe630095c274ebfe50edb3d36b76) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '46aaa561fff231cf8fb47b15abd5a13e') in 0.019749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/247/Reload_n_Shot_Shadow_247_0006.png
+  artifactKey: Guid(25ea4f51efe482546a73d1c320c3eb6d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/247/Reload_n_Shot_Shadow_247_0006.png using Guid(25ea4f51efe482546a73d1c320c3eb6d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5aff4d8095d96e54fd1dcc205caceb5e') in 0.0139447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/202/Reload_n_Shot_withShadow_202_0005.png
+  artifactKey: Guid(22870c94f11852f4188b44c6f72dcca5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/202/Reload_n_Shot_withShadow_202_0005.png using Guid(22870c94f11852f4188b44c6f72dcca5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28c013c7e40b650650b076c786a560ae') in 0.0134847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/157/Reload_n_Shot_withShadow_157_0007.png
+  artifactKey: Guid(82238ed670f21cf42adb20a835c9d4e5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/157/Reload_n_Shot_withShadow_157_0007.png using Guid(82238ed670f21cf42adb20a835c9d4e5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cebff4ef794c3721982ab3b4d0c519b7') in 0.0151213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/045
+  artifactKey: Guid(1a80f8a48d463ed47bbe57df58c065b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/045 using Guid(1a80f8a48d463ed47bbe57df58c065b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b31bc1c686d31110ed15bb767ba3485') in 0.0059331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/180/Reload_n_Shot_withShadow_180_0009.png
+  artifactKey: Guid(6806fd9c05c32be409cd11792947b5e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/180/Reload_n_Shot_withShadow_180_0009.png using Guid(6806fd9c05c32be409cd11792947b5e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '86eec44e7b781eac4cf84cc2a4076028') in 0.0173016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_022.png
+  artifactKey: Guid(6bb815034adbe91468cf1b1121baf3dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded no shadow/Ballista_Loaded_Shadow_022.png using Guid(6bb815034adbe91468cf1b1121baf3dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4b6b1cab1b83574472275adbff94d4ed') in 0.0136197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0006.png
+  artifactKey: Guid(5b90fe6778fa8bb45bfe8c407a4b2d23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0006.png using Guid(5b90fe6778fa8bb45bfe8c407a4b2d23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eb2e73b177bd7cb4912dc1a47facda1b') in 0.0238806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_112.png
+  artifactKey: Guid(5c50b696ea9e93e4e98a9d47a4379ef8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_112.png using Guid(5c50b696ea9e93e4e98a9d47a4379ef8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61467881410afdaaa2979e32f9787cd6') in 0.0149315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0003.png
+  artifactKey: Guid(ad53fb67104f8384f81c7a3ffe92d86f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0003.png using Guid(ad53fb67104f8384f81c7a3ffe92d86f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c2679b96f458668772d6744c1b142793') in 0.02433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/225/Reload_n_Shot_withShadow_225_0008.png
+  artifactKey: Guid(3bc807a2281ce214fb85523a5d087f37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/225/Reload_n_Shot_withShadow_225_0008.png using Guid(3bc807a2281ce214fb85523a5d087f37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1957e1716aa68744bb3b8eae72a55316') in 0.014063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/090/Reload_n_Shot_Shadow_090_0002.png
+  artifactKey: Guid(e2d8507d27a8fb241a87a934ce580ecf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/090/Reload_n_Shot_Shadow_090_0002.png using Guid(e2d8507d27a8fb241a87a934ce580ecf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '505bab4639c6608710b0e00d00adfcb5') in 0.0166588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0004.png
+  artifactKey: Guid(614a87e3e12fb6d409bb0a1c396b5db4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0004.png using Guid(614a87e3e12fb6d409bb0a1c396b5db4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6943dfa014a3df16b4ab57f207254540') in 0.0214397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0002.png
+  artifactKey: Guid(9aae26e9b4aa3c1419823aa6cce90331) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0002.png using Guid(9aae26e9b4aa3c1419823aa6cce90331) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '97a0e285a33f5ba5b1accd37a91fa639') in 0.0183206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/202/Reload_n_Shot_Shadow_202_0003.png
+  artifactKey: Guid(292ecb25f79f1584daeb882694633b67) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/202/Reload_n_Shot_Shadow_202_0003.png using Guid(292ecb25f79f1584daeb882694633b67) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f94dfecf281ddc63903d9d52f4278936') in 0.0444588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0008.png
+  artifactKey: Guid(b2953f6d62728d34fa78a6cce8c381ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0008.png using Guid(b2953f6d62728d34fa78a6cce8c381ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ca341464b70b1a16709cf90a03797da0') in 0.0135864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0007.png
+  artifactKey: Guid(00e6c86156561c341a858345ab799d95) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0007.png using Guid(00e6c86156561c341a858345ab799d95) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5f4342ee767d425d57d61fe3dabf0acc') in 0.0147535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0007.png
+  artifactKey: Guid(0c73783a6911b3942bb8559ef7988232) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0007.png using Guid(0c73783a6911b3942bb8559ef7988232) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8580c2e4ced1203e56870ca2ab6d8d34') in 0.0145237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0007.png
+  artifactKey: Guid(0fbb4074a4c13614981118c7e6e932ba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0007.png using Guid(0fbb4074a4c13614981118c7e6e932ba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fec72aa8d9fa061ac7f95f6d301803c3') in 0.0152332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0003.png
+  artifactKey: Guid(291b6ca1e6f162b4d861e992e309c3ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0003.png using Guid(291b6ca1e6f162b4d861e992e309c3ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e363b4f6b62aac6d4219f068721d51e7') in 0.0162449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/045/Reload_n_Shot_Body_045_0009.png
+  artifactKey: Guid(1b69f6d879fa129499ee153ed543b5ff) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/045/Reload_n_Shot_Body_045_0009.png using Guid(1b69f6d879fa129499ee153ed543b5ff) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8b7a6205d8099cf3501b412d3eecb886') in 0.0152866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/247/Reload_n_Shot_Shadow_247_0009.png
+  artifactKey: Guid(582406faafac01d4ea24f646cf51ca00) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/247/Reload_n_Shot_Shadow_247_0009.png using Guid(582406faafac01d4ea24f646cf51ca00) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9025c73034bf029875ca3fa99e498127') in 0.0148981 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0006.png
+  artifactKey: Guid(ab43e8b3a3a2aed418e17f2df966cc7a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0006.png using Guid(ab43e8b3a3a2aed418e17f2df966cc7a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c270d7e1bbb3e4a008b9539059a5e1d3') in 0.0140752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/090/Reload_n_Shot_Body_090_0005.png
+  artifactKey: Guid(eed48f53864b579478fa70292bd8e389) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/090/Reload_n_Shot_Body_090_0005.png using Guid(eed48f53864b579478fa70292bd8e389) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '22aafdb6b3583e9429df73d613cff435') in 0.0161038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0005.png
+  artifactKey: Guid(1a78c43afa2e7fe4a9f3cd961fe0b7e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0005.png using Guid(1a78c43afa2e7fe4a9f3cd961fe0b7e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a109bf6bc800593425ebf626dc9cd34c') in 0.0267134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180/Reload_n_Shot_Shadow_180_0001.png
+  artifactKey: Guid(c849acc159cfc934daed29007cf71a56) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180/Reload_n_Shot_Shadow_180_0001.png using Guid(c849acc159cfc934daed29007cf71a56) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '531fc125d998b7c9fbbc2c88670eaaa4') in 0.013802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/247/Reload_n_Shot_Body_247_0005.png
+  artifactKey: Guid(8f1641a901c9b144e8ef8d2f7f4ba82d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/247/Reload_n_Shot_Body_247_0005.png using Guid(8f1641a901c9b144e8ef8d2f7f4ba82d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '956f6c636bbdd9a1e6a9ec8df09e2345') in 0.0145281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow
+  artifactKey: Guid(476f34b0547a8784d9edf2c93e2774de) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow using Guid(476f34b0547a8784d9edf2c93e2774de) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '05794f6209c36c7c512911a9f4532f24') in 0.0056134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/315/Reload_n_Shot_Shadow_315_0008.png
+  artifactKey: Guid(c70e319f018594c40ab153b06e1bc9e4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/315/Reload_n_Shot_Shadow_315_0008.png using Guid(c70e319f018594c40ab153b06e1bc9e4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0cc4343e35839a74c46d32f1ae03ba2c') in 0.015409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/067/Reload_n_Shot_Body_067_0002.png
+  artifactKey: Guid(9e83937683d838941ab0a346809bfd7a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/067/Reload_n_Shot_Body_067_0002.png using Guid(9e83937683d838941ab0a346809bfd7a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd109b61765754faec7b4d24f2fd20391') in 0.0098799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/157/Reload_n_Shot_Shadow_157_0004.png
+  artifactKey: Guid(d3b2a06c8dae8d441b73d1bdb633de89) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/157/Reload_n_Shot_Shadow_157_0004.png using Guid(d3b2a06c8dae8d441b73d1bdb633de89) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4ebb421cf809303126d2eb14a496f11d') in 0.0739069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0001.png
+  artifactKey: Guid(fd6ed46213365904d895f15ea5de7e4a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/balista reload animation frames/Body/135/Reload_n_Shot_withShadow_135_0001.png using Guid(fd6ed46213365904d895f15ea5de7e4a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eadf7ccab93e80ccd07213c22d07bab1') in 0.0187615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0006.png
+  artifactKey: Guid(eee4e5f88a7fa374ea0a1c0b4fcd2791) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0006.png using Guid(eee4e5f88a7fa374ea0a1c0b4fcd2791) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e89c49eee8be3e644f1374174df447b6') in 0.0167544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/045
+  artifactKey: Guid(da51fff5119936d42af2fbcd353c2e1c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/045 using Guid(da51fff5119936d42af2fbcd353c2e1c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '030c58744f2c4cf5a4d8c45cd93b323a') in 0.0068001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0004.png
+  artifactKey: Guid(e841f42e6ff12474eb1da5f2347a41b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0004.png using Guid(e841f42e6ff12474eb1da5f2347a41b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8537d354376e75e766dff20fe4676922') in 0.0171941 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0008.png
+  artifactKey: Guid(1d0c00bf275d51b46b30238019147244) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0008.png using Guid(1d0c00bf275d51b46b30238019147244) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '08cc9156beddf4ae529e5eb31cb5c754') in 0.0148516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022/Reload_n_Shot_Shadow_022_0009.png
+  artifactKey: Guid(b0a62854900eeaf45be05f39ee3816e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022/Reload_n_Shot_Shadow_022_0009.png using Guid(b0a62854900eeaf45be05f39ee3816e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '79332c08945428fd9d2030cebfba58d3') in 0.0138716 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/337/Reload_n_Shot_Shadow_337_0009.png
+  artifactKey: Guid(490c15439f7758846a4ba6f3c17c7691) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/337/Reload_n_Shot_Shadow_337_0009.png using Guid(490c15439f7758846a4ba6f3c17c7691) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ff9636143db2e3fcc69d466dbdcf1635') in 0.0155291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0008.png
+  artifactKey: Guid(f1c0b2caeaf4e9f4899a584f3891d01d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0008.png using Guid(f1c0b2caeaf4e9f4899a584f3891d01d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '725430353ff7b08c99d880f6677f023d') in 0.0337606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/247/Reload_n_Shot_Body_247_0006.png
+  artifactKey: Guid(6a478610b21abdb478659407e1275fa3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/247/Reload_n_Shot_Body_247_0006.png using Guid(6a478610b21abdb478659407e1275fa3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '287ee2e36be01a9d24d6cef699e98eb7') in 0.0236428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0003.png
+  artifactKey: Guid(f9ecebe43cff29b42ac60fd8d56ab682) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0003.png using Guid(f9ecebe43cff29b42ac60fd8d56ab682) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '65d38502d64f4233c74b670eccd2bd7b') in 0.0157058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112/Reload_n_Shot_Body_112_0006.png
+  artifactKey: Guid(346e8a527080432488a2a7aeb094a619) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112/Reload_n_Shot_Body_112_0006.png using Guid(346e8a527080432488a2a7aeb094a619) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '52bd9c6ddfd08edee19d359a0c9e1d9b') in 0.0148722 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0003.png
+  artifactKey: Guid(4f2e5ad7965e277458dab6b5a81b4453) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0003.png using Guid(4f2e5ad7965e277458dab6b5a81b4453) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c1bc8d34f400e2f875f29c60a5f4a020') in 0.014237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/180
+  artifactKey: Guid(0149e45f4eb996f43a4625e72e5e5d8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/180 using Guid(0149e45f4eb996f43a4625e72e5e5d8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f89ea375112d7445097e5962c38eb6a3') in 0.0054671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/337/Reload_n_Shot_Shadow_337_0007.png
+  artifactKey: Guid(85f5cfc048dfe344eaa221692ce5ca72) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/337/Reload_n_Shot_Shadow_337_0007.png using Guid(85f5cfc048dfe344eaa221692ce5ca72) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b622ed3a144a6370cec659100f61f903') in 0.0137114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0007.png
+  artifactKey: Guid(19bd0a77025f33a4a86c441c6784215c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0007.png using Guid(19bd0a77025f33a4a86c441c6784215c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '904202013ec533c2eeef716cb59d0035') in 0.0128411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/225/Reload_n_Shot_Shadow_225_0004.png
+  artifactKey: Guid(628408cdf28504544a77899312a6b647) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/225/Reload_n_Shot_Shadow_225_0004.png using Guid(628408cdf28504544a77899312a6b647) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf9f59e75c55a76697ca2669b9b0408a') in 0.0195033 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022
+  artifactKey: Guid(3261b764681a89244bb150b1c9f7acd5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022 using Guid(3261b764681a89244bb150b1c9f7acd5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b208abb9310e5fbe2bfd0f0f44bdf43a') in 0.0048985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0008.png
+  artifactKey: Guid(762e61f288074614a8d3dbd55597eb6d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/315/Reload_n_Shot_Body_315_0008.png using Guid(762e61f288074614a8d3dbd55597eb6d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b07b83c8d8f6546d17cddcd42ace5664') in 0.0125104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0006.png
+  artifactKey: Guid(83cc4a61e69f54442a6f7947ee75d035) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0006.png using Guid(83cc4a61e69f54442a6f7947ee75d035) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '94c85bc9bd3be276d6829b092ad0bee4') in 0.0128369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/135/Reload_n_Shot_Body_135_0009.png
+  artifactKey: Guid(11d056b31f166ed4ab7d5538fb0ff4e3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/135/Reload_n_Shot_Body_135_0009.png using Guid(11d056b31f166ed4ab7d5538fb0ff4e3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9dd94b5a809d89938ab08fc65138e9e4') in 0.0127396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/135/Reload_n_Shot_Body_135_0001.png
+  artifactKey: Guid(12cfa757c9a9a2e498dc9a755b68972f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/135/Reload_n_Shot_Body_135_0001.png using Guid(12cfa757c9a9a2e498dc9a755b68972f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '105bc7c76bd0621110953b2823e23aca') in 0.0146174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0002.png
+  artifactKey: Guid(85b2c68b16619054385a7ef5d56121a5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/337/Reload_n_Shot_Body_337_0002.png using Guid(85b2c68b16619054385a7ef5d56121a5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e0f043238f51b79d8361728c5b61cba5') in 0.0131643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0001.png
+  artifactKey: Guid(31cb6ce949bbf9044a093185fbac1701) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0001.png using Guid(31cb6ce949bbf9044a093185fbac1701) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'daa81414d4ceeae6fd8aec640659fd23') in 0.015936 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_135.png
+  artifactKey: Guid(8ff0f68a0ae7834489b5add22bf2a801) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista loaded/Ballista_Loaded_135.png using Guid(8ff0f68a0ae7834489b5add22bf2a801) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'caae1b3787944047476c1a6b54f5f042') in 0.0122276 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.107424 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202
+  artifactKey: Guid(fc491acb0367ebf4aaf8b3cee02022df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202 using Guid(fc491acb0367ebf4aaf8b3cee02022df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3ca41b1ac611ef638f1a574f9f0c686e') in 0.0071612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0003.png
+  artifactKey: Guid(14dcbba24f7edd34ca5352caa1c4f267) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0003.png using Guid(14dcbba24f7edd34ca5352caa1c4f267) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1246787b61db847daea2414fd66cffca') in 0.0238869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0009.png
+  artifactKey: Guid(2c2f96deeccb1d64885c0c77bd4b4185) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0009.png using Guid(2c2f96deeccb1d64885c0c77bd4b4185) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ffce4d523c6e369ff53c47c296ee6d0a') in 0.0128904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0003.png
+  artifactKey: Guid(7a2c601eb852fc249979f778d653d5e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/270/Reload_n_Shot_Shadow_270_0003.png using Guid(7a2c601eb852fc249979f778d653d5e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cebf8275f52df89d8feeb0c40cba8bd1') in 0.0144118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/157/Reload_n_Shot_Body_157_0006.png
+  artifactKey: Guid(dc5c1ad942d5bbe48bcff64dd2f8e2cd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/157/Reload_n_Shot_Body_157_0006.png using Guid(dc5c1ad942d5bbe48bcff64dd2f8e2cd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '89ecf6a7363c6f64dba87c239d5ea2ce') in 0.0142729 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180
+  artifactKey: Guid(dd09fb774cd9d4e409badf40d3d4b361) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180 using Guid(dd09fb774cd9d4e409badf40d3d4b361) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0cbe0c00ec1f161bed5d1701a58dca1a') in 0.0078365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/067/Reload_n_Shot_Body_067_0007.png
+  artifactKey: Guid(2f46e590dc7a6ca469eecf84ad121ce0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/067/Reload_n_Shot_Body_067_0007.png using Guid(2f46e590dc7a6ca469eecf84ad121ce0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e73101f7be947882ebc85c27c750fac4') in 0.0098175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022
+  artifactKey: Guid(e4b995155c512924599f4ec650ed38d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022 using Guid(e4b995155c512924599f4ec650ed38d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '55581a099ce9f208ef9cdaeafe7e40b8') in 0.0054102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0007.png
+  artifactKey: Guid(551572f5e87268a468e5ba378a40c164) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/112/Reload_n_Shot_Shadow_112_0007.png using Guid(551572f5e87268a468e5ba378a40c164) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9dc60115ff8eacb3a3f65a54ba0e8430') in 0.0139306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0009.png
+  artifactKey: Guid(8314e272f7c74374eb1179293ac756da) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270/Reload_n_Shot_Body_270_0009.png using Guid(8314e272f7c74374eb1179293ac756da) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b60910e00bc3253a98e4a54d75366e91') in 0.0141015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270
+  artifactKey: Guid(7a877b3586296c44f877f32112b8f00f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/270 using Guid(7a877b3586296c44f877f32112b8f00f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '941bc7deb4126b8162f37b2cb4779f6e') in 0.0060218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180/Reload_n_Shot_Shadow_180_0004.png
+  artifactKey: Guid(19fd0226bed8bc64688486ef228db1d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/180/Reload_n_Shot_Shadow_180_0004.png using Guid(19fd0226bed8bc64688486ef228db1d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '747c8b940c06894a2403250fa6aea2c2') in 0.0147911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/292/Reload_n_Shot_Shadow_292_0006.png
+  artifactKey: Guid(c233a23a185c3c549996c95e6ae6949c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/292/Reload_n_Shot_Shadow_292_0006.png using Guid(c233a23a185c3c549996c95e6ae6949c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b9860ec699dbf40a9545c9ffdddaceac') in 0.0145171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0004.png
+  artifactKey: Guid(935490aef7da65b4f9d1799ee52d4a08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0004.png using Guid(935490aef7da65b4f9d1799ee52d4a08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '203424f9af00990bf78fb8e67f43e06e') in 0.0140699 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/090/Reload_n_Shot_Body_090_0007.png
+  artifactKey: Guid(0bf5900c281a74d4a8d362d3b89a8927) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/090/Reload_n_Shot_Body_090_0007.png using Guid(0bf5900c281a74d4a8d362d3b89a8927) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '12046bff5d402c2a72f2879196a520f9') in 0.014562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/225/Reload_n_Shot_Body_225_0002.png
+  artifactKey: Guid(a1c0920a7dc620044a7345d2f9d71d90) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/225/Reload_n_Shot_Body_225_0002.png using Guid(a1c0920a7dc620044a7345d2f9d71d90) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9b886c4d729d275b3b7381fb6af8e5c9') in 0.0268108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112
+  artifactKey: Guid(d0d429521a480f44aaeb0fd31121b8f2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/112 using Guid(d0d429521a480f44aaeb0fd31121b8f2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4dd65130f263600cc2b9aa7659a0161e') in 0.0065651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0005.png
+  artifactKey: Guid(8c7fa325b9b7c8b4c97f9350d8399f76) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0005.png using Guid(8c7fa325b9b7c8b4c97f9350d8399f76) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6c92a34625c5073115f96ac418d81b56') in 0.0195914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_180.png
+  artifactKey: Guid(afa31cd41dadf5a468cf574d61d9e93a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_180.png using Guid(afa31cd41dadf5a468cf574d61d9e93a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb043b8ba508e34431c2f5d608194953') in 0.0136903 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_135.png
+  artifactKey: Guid(021aaee1f185a3b4fb25ad9cf86dca24) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_135.png using Guid(021aaee1f185a3b4fb25ad9cf86dca24) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7c2ef33e8790472294af183d799fcf04') in 0.0147236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_067.png
+  artifactKey: Guid(401582a24f6b91f42929e5a114359269) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_067.png using Guid(401582a24f6b91f42929e5a114359269) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb76b05c22f7ccec7b99b3ca5cb5ecf5') in 0.0232754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'da95567d30c0e1a94dd6269701ed1917') in 0.0109846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_202.png
+  artifactKey: Guid(859b2a3331fa5c24c9ac853c443e2d94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_202.png using Guid(859b2a3331fa5c24c9ac853c443e2d94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '39e470445eb7025f8a9886cbd99faa2f') in 0.0137583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f45aac3f96887cd5099b745ad90e9d2f') in 0.0067314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Scripts/PsuedoCode.cs
+  artifactKey: Guid(f87865dbc91d256469bad4176703fc1d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/PsuedoCode.cs using Guid(f87865dbc91d256469bad4176703fc1d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fd02226091922a2fe16eb1e0870b587f') in 0.006206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Sprites
+  artifactKey: Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Sprites using Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aee1789ec826b0fc486c1bc207e3d42b') in 0.0060236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_135.png
+  artifactKey: Guid(f2263da76d6b2dc45b63e203b639e630) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_135.png using Guid(f2263da76d6b2dc45b63e203b639e630) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd69b49a9bc9bd1405790e58dcf9e7793') in 0.0147218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/balista.anim
+  artifactKey: Guid(9a529dcbae903e441883f5dc0550d06c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/balista.anim using Guid(9a529dcbae903e441883f5dc0550d06c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4fcb0d0d61bc761fcb077f1be61b3eb4') in 0.0236166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_067.png
+  artifactKey: Guid(b53774cd034b1ff44aca1d0db9240e57) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_067.png using Guid(b53774cd034b1ff44aca1d0db9240e57) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '531e48d3cfc98b3462e8f81344a66d0e') in 0.0176993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/292/Reload_n_Shot_Body_292_0005.png
+  artifactKey: Guid(1d25faf117ee10d4a8f9659ecc5b83ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/292/Reload_n_Shot_Body_292_0005.png using Guid(1d25faf117ee10d4a8f9659ecc5b83ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1f605aafac11c419b6677e32120296c9') in 0.0143575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Canon/Cañon_bala.png
+  artifactKey: Guid(7159dc7878f770849962845598730eeb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Canon/Cañon_bala.png using Guid(7159dc7878f770849962845598730eeb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7eefe37b30d47ddb76150c494e8c7887') in 0.0187014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body
+  artifactKey: Guid(f60fa86b1c8fb194bbd4152e39740577) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body using Guid(f60fa86b1c8fb194bbd4152e39740577) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7c4dc976a833704872ec9d25fa00fe8f') in 0.0054192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_247.png
+  artifactKey: Guid(9bfb0db6bab196e48b31df518c8a75d1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_247.png using Guid(9bfb0db6bab196e48b31df518c8a75d1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e8c0fdeb7f1de122583ba9e2043009c9') in 0.0136307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0008.png
+  artifactKey: Guid(5aba95dcdd2c38a41b9c1e478de96f15) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/000/Reload_n_Shot_Shadow_000_0008.png using Guid(5aba95dcdd2c38a41b9c1e478de96f15) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd35a846193837a9f398f7e7ee46bc1ff') in 0.0153902 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '497cccc00b95b1aa07acf306f3171370') in 0.0072889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'be750a7efad65c696419843c234e5c2b') in 0.0056646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+  artifactKey: Guid(a0fc465d6cf04254a2938578735e2383) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png using Guid(a0fc465d6cf04254a2938578735e2383) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '038366bcbb00e6141ddff3a14bd6e5b6') in 0.0104144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+  artifactKey: Guid(50f52f9274434ecfb34dd87f0836f323) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity using Guid(50f52f9274434ecfb34dd87f0836f323) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '941bd1e31444f45f91f69c03867329ab') in 0.0097015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+  artifactKey: Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs using Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61aa5963dcde054a43c8aee2ba45207b') in 0.0056377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4f9391533d7161d1013f047e31da134b') in 0.0516265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_202.png
+  artifactKey: Guid(866820a687e46234f9290920c3e48af2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_202.png using Guid(866820a687e46234f9290920c3e48af2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f35ec7975fcba9a251e03d34311eea2f') in 0.0146572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_090.png
+  artifactKey: Guid(d10476895a3ee6342b849968874b7a0d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Body/Bolt_For_Shots_Body_090.png using Guid(d10476895a3ee6342b849968874b7a0d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '45b07049ae394ef34520f679beb054df') in 0.0137148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c73c934c160903ec8203a368a25322a') in 0.0244549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat
+  artifactKey: Guid(90722b8bd74d9aa49958562aff7bdf76) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat using Guid(90722b8bd74d9aa49958562aff7bdf76) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c3d4ecb0acb477d0f70370f1eda6ed6d') in 0.028246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0007.png
+  artifactKey: Guid(d240760e8dde1ff428c869f3907affca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/202/Reload_n_Shot_Body_202_0007.png using Guid(d240760e8dde1ff428c869f3907affca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a9d26b0a3e4053dd500c76ae6541bdaa') in 0.0395121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+  artifactKey: Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs using Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '95f4c505e69389f8224b077418424fa9') in 0.0059169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_292.png
+  artifactKey: Guid(0a05972d69c6e3d4c88186c356a64998) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body/Bolt_For_Shots_292.png using Guid(0a05972d69c6e3d4c88186c356a64998) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '87bdb7ddfd1440cf0827771c2db550ec') in 0.0257097 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolts for shots/Body
+  artifactKey: Guid(f705b552e1e2e5a44848cf431e2f1ed7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolts for shots/Body using Guid(f705b552e1e2e5a44848cf431e2f1ed7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9de6e915410a34fa9b29143f35968be1') in 0.0059225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+  artifactKey: Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader using Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1d185060272f60d8a16f936d4ed05f1c') in 0.0070572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0009.png
+  artifactKey: Guid(c860ca9d1c840b548bf88f563407ba69) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/022/Reload_n_Shot_Body_022_0009.png using Guid(c860ca9d1c840b548bf88f563407ba69) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '729bd4e35fb9b2d946c8b3b5e42ba200') in 0.0140286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '018808262eec2af7e1766a3a919c6fd6') in 0.0601569 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example
+  artifactKey: Guid(a7eaeb4188c60454faf0a41c253b505c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example using Guid(a7eaeb4188c60454faf0a41c253b505c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9eb6ee28f83b4c175a381471575a7f02') in 0.0058958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+  artifactKey: Guid(fd09957580ac4326916010f1f260975b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd using Guid(fd09957580ac4326916010f1f260975b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1a5080a15688fe8312684b074d62ee92') in 0.0234888 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat
+  artifactKey: Guid(2ddca8f46aa0838419d568affb0ca6b4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat using Guid(2ddca8f46aa0838419d568affb0ca6b4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '35ad010b0dc146a7d94559bc04fb8d1b') in 0.0359124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '993d29505f12e84b91f21a2d1a961ed8') in 0.0401741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+  artifactKey: Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity using Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'af26fb7c684e20c9f54e6b4d52fa4d4c') in 0.0105054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures
+  artifactKey: Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures using Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '065068ded5e6e1ed0511eb57b04cd787') in 0.0049934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+  artifactKey: Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab using Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)The method get_fontSharedMaterials was not found on TextMeshPro - Prefab 2. This property will not be indexed.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.Rendering.Universal.MaterialReferenceBuilder:GetMaterialFromMethod (System.Reflection.MethodInfo,UnityEngine.Object,System.Func`3<string, string, string>) (at ./Library/PackageCache/com.unity.render-pipelines.universal/Editor/Converter/MaterialReferenceBuilder.cs:133)
+UnityEditor.Rendering.Universal.ConversionIndexers:ConversionIndexer (UnityEditor.Search.CustomObjectIndexerTarget,UnityEditor.Search.ObjectIndexer) (at ./Library/PackageCache/com.unity.render-pipelines.universal/Editor/Converter/ConversionIndexers.cs:21)
+UnityEditor.Search.ObjectIndexer:CallCustomIndexers (string,int,UnityEngine.Object,UnityEditor.SerializedObject,bool)
+UnityEditor.Search.ObjectIndexer:IndexCustomProperties (string,int,UnityEngine.Object)
+UnityEditor.Search.AssetIndexer:IndexCustomGameObjectProperties (string,int,UnityEngine.GameObject)
+UnityEditor.Search.AssetIndexer:IndexProperties (int&,string&,bool&)
+UnityEditor.Search.AssetIndexer:IndexDocument (string,bool)
+UnityEditor.Search.SearchIndexEntryImporter:OnImportAsset (UnityEditor.AssetImporters.AssetImportContext)
+UnityEditor.AssetImporters.ScriptedImporter:GenerateAssetData (UnityEditor.AssetImporters.AssetImportContext)
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal/Editor/Converter/MaterialReferenceBuilder.cs Line: 133)
+
+ -> (artifact id: 'e419c139439c3f685006482afa9f850d') in 0.0768074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0009.png
+  artifactKey: Guid(056d6ac0c1518e84db408e39adf8fd78) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/135/Reload_n_Shot_Shadow_135_0009.png using Guid(056d6ac0c1518e84db408e39adf8fd78) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a03404b57cadf1e6a535d4662468ce1') in 0.016827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+  artifactKey: Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity using Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '550847852f1ad633ab905eaf5dcf325e') in 0.0111743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+  artifactKey: Guid(686ec78b56aa445795335fbadafcfaa4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs using Guid(686ec78b56aa445795335fbadafcfaa4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9b6e8f251c97edc221217b383fc04cbc') in 0.0068375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat
+  artifactKey: Guid(8d176c01131de8f46ad61094e29d79b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat using Guid(8d176c01131de8f46ad61094e29d79b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '77ca82c36e53f731668c01dd29722e4e') in 0.1106581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Cauldron/Cauldron_V1.png
+  artifactKey: Guid(959eea57eb06bb04fb8d698c7f7e0010) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Cauldron/Cauldron_V1.png using Guid(959eea57eb06bb04fb8d698c7f7e0010) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ae7aa61e5f7e973ef1d7818c0614ccb6') in 0.0671354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+  artifactKey: Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity using Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0e3e5830f93f197c7bcd9222b1a6feaa') in 0.0097943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+  artifactKey: Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg using Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0ee33ba39677bf7374ace028a226427b') in 0.0384542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+  artifactKey: Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs using Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9bd71213a1b050d532306fc5fb2bd9ef') in 0.0061819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
+  artifactKey: Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset using Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5b1525cc83fcf7ab19fd2e72db46f8c0') in 0.0104067 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Scripts/Chris RB controller.cs
+  artifactKey: Guid(0e6fab995deea2241a95d5b6ab439266) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/Chris RB controller.cs using Guid(0e6fab995deea2241a95d5b6ab439266) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbed24944c09c5c843ab0e7f284bc0a8') in 0.0063246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_71.asset
+  artifactKey: Guid(01e38a12f8a12024eae931015015b8a5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_71.asset using Guid(01e38a12f8a12024eae931015015b8a5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d4abf789738b8502a9f66deee363ad4') in 0.0150585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_44.asset
+  artifactKey: Guid(5a3d5efb47cbdb74e9e858a89ef30b8d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_44.asset using Guid(5a3d5efb47cbdb74e9e858a89ef30b8d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9780fa9aafa712f86efc1e1eb47a7f82') in 0.0101365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_95.asset
+  artifactKey: Guid(4acb0023d1e6c41479566c0a8745b062) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_95.asset using Guid(4acb0023d1e6c41479566c0a8745b062) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5130f983aaa9fabd1fe94531c2aac704') in 0.6123932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_55.asset
+  artifactKey: Guid(a8a736e398ad35845bfeff6752076477) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_55.asset using Guid(a8a736e398ad35845bfeff6752076477) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1da5448595081879eb89e67eec655316') in 0.0106044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_12.asset
+  artifactKey: Guid(ca2a0e9668ed12446b53fac41505958c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_12.asset using Guid(ca2a0e9668ed12446b53fac41505958c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28cdb4cab328a9d278129cb7b2ca27aa') in 0.0105767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_86.asset
+  artifactKey: Guid(f3f7b6e4a16ab65439f0e3b93a012730) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_86.asset using Guid(f3f7b6e4a16ab65439f0e3b93a012730) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b5188f460ebf7bceed5a72b2754f17d9') in 0.0103052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_29.asset
+  artifactKey: Guid(945e3ac78ec78f34c96e574a0d0fe254) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_29.asset using Guid(945e3ac78ec78f34c96e574a0d0fe254) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '434d2bbc7d8bb66291fce529e128f74c') in 0.0099119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_65.asset
+  artifactKey: Guid(a4906c32dde7ef043ab894fd97c424ef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_65.asset using Guid(a4906c32dde7ef043ab894fd97c424ef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b40223be00840c75a998c424e29a5286') in 0.0102731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_40.asset
+  artifactKey: Guid(e643d39aa5ae734499988627b0f46bb8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_40.asset using Guid(e643d39aa5ae734499988627b0f46bb8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5bbd1973324c4f558138df99b82a5eda') in 0.0113867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_91.asset
+  artifactKey: Guid(9c9f43dbc3f6c91418716f49ce8c7902) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_91.asset using Guid(9c9f43dbc3f6c91418716f49ce8c7902) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4e6da41dad8dd2a36918e096460abbf8') in 0.0102098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+  artifactKey: Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd using Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2ff42c73194bdbf0a06743c6a66192be') in 0.0243987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(4beb055f07aaff244873dec698d0363e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf using Guid(4beb055f07aaff244873dec698d0363e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '902418a7fc37ae66f97c3d433dc8dbb7') in 0.0571332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+  artifactKey: Guid(17c350171f7a3ca479f830547c66d187) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg using Guid(17c350171f7a3ca479f830547c66d187) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e76cf8eafb096861655cbbf555ba225') in 0.0446643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c903dd535e5d4644a1b433f1c09dc78a') in 0.0388094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+  artifactKey: Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity using Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2bb4a2968f08d92ff47a3beda5dc2581') in 0.0104653 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+  artifactKey: Guid(0851605490a599b46b6ac5cb681d93ea) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity using Guid(0851605490a599b46b6ac5cb681d93ea) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a4ab6d312c41aec095d4a69bb418e69b') in 0.0109861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_34.asset
+  artifactKey: Guid(48b6346f9458c2047ba8318cda560e3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_34.asset using Guid(48b6346f9458c2047ba8318cda560e3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '007e15e18f850af0182b3283ae82796f') in 0.0106304 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Alt TopDown Pixel art
+  artifactKey: Guid(adbaf7ca632b1184488edee81d561b71) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Alt TopDown Pixel art using Guid(adbaf7ca632b1184488edee81d561b71) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '11af8057f15d9be80335828607fd9ed0') in 0.0054094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '377ba7159fd8619161386ca7a994f8c0') in 0.0196945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_6.asset
+  artifactKey: Guid(3e408faa8522b6a4b84553cf089271df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_6.asset using Guid(3e408faa8522b6a4b84553cf089271df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8ff6295bc088f8cfbc282261b0806a8') in 0.010292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_89.asset
+  artifactKey: Guid(f466417f015644940ba13df986e93aa6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_89.asset using Guid(f466417f015644940ba13df986e93aa6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cd490578aefa09f788b8674efcc56474') in 0.0109954 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_3.asset
+  artifactKey: Guid(cdc932a0347854d4bae3584491284178) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_3.asset using Guid(cdc932a0347854d4bae3584491284178) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8a4041915a9f74d6a324b922f2987d5d') in 0.0096754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_21.asset
+  artifactKey: Guid(f957f9f4ec6392c468a774c235179e6e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_21.asset using Guid(f957f9f4ec6392c468a774c235179e6e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eff0fea470fd4b8baa02f41df1ce77c5') in 0.010143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_63.asset
+  artifactKey: Guid(6142a0a43aec6e947ac9630abc0c9f66) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_63.asset using Guid(6142a0a43aec6e947ac9630abc0c9f66) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ec63edc8568a23d26a2b4fb31c35cd96') in 0.0102619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Settings/Renderer2D.asset
+  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '87f3e216b3626a99f9fde5f24055cfa7') in 0.0171836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Scripts/PlayerMovment.cs
+  artifactKey: Guid(f62906d824a03de4e92f386d134d9ea1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/PlayerMovment.cs using Guid(f62906d824a03de4e92f386d134d9ea1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '082e2faf65557a9b9db835d4d7a103b4') in 0.0058177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_99.asset
+  artifactKey: Guid(79c29a486636257478722bd4138182ef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_99.asset using Guid(79c29a486636257478722bd4138182ef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1149600ad61bd369a5e51887a72f07c4') in 0.0097794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Scripts/Interactable.cs
+  artifactKey: Guid(b7e652e67bc4a514fb31953b587b48db) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/Interactable.cs using Guid(b7e652e67bc4a514fb31953b587b48db) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '668a54ba34e2ecabecd6e448606af5fa') in 0.0057088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2f4a48e20492fe106f84181669cd8b89') in 0.0058434 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fc1953ce9d6cb662c97b3473f1240645') in 0.0066331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+  artifactKey: Guid(08572ab7713642c8a60789750f0bce5c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity using Guid(08572ab7713642c8a60789750f0bce5c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e85963a31b0c47dfe4b4442b55c78238') in 0.0107806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+  artifactKey: Guid(73a79399807f4e8388c2cbb5494681ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt using Guid(73a79399807f4e8388c2cbb5494681ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '725454b431eaacebe500fface89dd3a4') in 0.0248352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_225.png
+  artifactKey: Guid(763011995c34d6d43978b768f5f5e753) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_225.png using Guid(763011995c34d6d43978b768f5f5e753) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ec95b0ea635e1df246e505170c37387') in 0.0165847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+  artifactKey: Guid(8878a782f4334ecbbcf683b3ac780966) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg using Guid(8878a782f4334ecbbcf683b3ac780966) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9f9639c3a2ded1ed01ab99a200e6cedf') in 0.0091917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity
+  artifactKey: Guid(eea2b7206368b444e84fbec4ec32b64a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity using Guid(eea2b7206368b444e84fbec4ec32b64a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '15698cf1c3f73a4242d722aeec72a463') in 0.0115068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_90.asset
+  artifactKey: Guid(772506502934778489335d5485909fca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_90.asset using Guid(772506502934778489335d5485909fca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '020911ead753ed6709a37265280af1ff') in 0.0107996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/180/Reload_n_Shot_Body_180_0002.png
+  artifactKey: Guid(bf8737e2d9607454e9c5e8f9de0e2f8b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/180/Reload_n_Shot_Body_180_0002.png using Guid(bf8737e2d9607454e9c5e8f9de0e2f8b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2d35dea0ad3aede6a8989903f1d99fba') in 0.0154633 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
+  artifactKey: Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat using Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6efd2f53667315e7ad1a896253fd90d6') in 0.0459743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/292/Reload_n_Shot_Shadow_292_0009.png
+  artifactKey: Guid(25442f2730f89d3409fc77b1e2a3d660) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/292/Reload_n_Shot_Shadow_292_0009.png using Guid(25442f2730f89d3409fc77b1e2a3d660) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4d77e152bbe5338372f677a11ba8105c') in 0.0162141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/225/Reload_n_Shot_Body_225_0005.png
+  artifactKey: Guid(8a71ed8c2e181c341845bb557116d578) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Body/225/Reload_n_Shot_Body_225_0005.png using Guid(8a71ed8c2e181c341845bb557116d578) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b489409c7a608d0baed32b4223ed3d76') in 0.0140795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+  artifactKey: Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs using Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51de1ab8148fa67c377f6b909c7b1c75') in 0.0057769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_82.asset
+  artifactKey: Guid(d6ae1250c007e5c44b3b3dd36dceeb8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_82.asset using Guid(d6ae1250c007e5c44b3b3dd36dceeb8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3cb854731ef6426ff264889297b102b4') in 0.0109974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Canon/Cannon to usa as prefab.controller
+  artifactKey: Guid(75cccd0cceaa1004b843b6f41dfd566a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Canon/Cannon to usa as prefab.controller using Guid(75cccd0cceaa1004b843b6f41dfd566a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '18608b3dc811e09886ad54480e232a71') in 0.0073329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_8.asset
+  artifactKey: Guid(b83c0e3c9b3a22d4e93b3825453d5535) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_8.asset using Guid(b83c0e3c9b3a22d4e93b3825453d5535) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ab83879fb97c49ccde6fd56a304a186f') in 0.0105554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/225/Reload_n_Shot_Shadow_225_0005.png
+  artifactKey: Guid(7053cd12a41325d4fbc1d862613f7cde) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/225/Reload_n_Shot_Shadow_225_0005.png using Guid(7053cd12a41325d4fbc1d862613f7cde) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '68de2e7ad3d507974a50a688cec1811b') in 0.01435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_74.asset
+  artifactKey: Guid(70b92544991802845ba37e13e82d8b1f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_74.asset using Guid(70b92544991802845ba37e13e82d8b1f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8dd457c7b4855df1d3685cc5b2e8711b') in 0.0097885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets
+  artifactKey: Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets using Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1fdc393c378c0def051d8664c0434d15') in 0.0048949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_73.asset
+  artifactKey: Guid(e87bb2d662db7f04eaa88f2346d618ce) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Tiles (sliced Sprites for background usually)/Destructible Objects Sprite Sheet_73.asset using Guid(e87bb2d662db7f04eaa88f2346d618ce) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a476ea7a6f53cbf937c281e71458be8a') in 0.0108192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Sprites/Canon/Cañon_quieto.png
+  artifactKey: Guid(42d8495fab74a4e409dc1fc39477f5ef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Canon/Cañon_quieto.png using Guid(42d8495fab74a4e409dc1fc39477f5ef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '16dc9afaae12b267afa9b1342b887ab3') in 0.0117049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022/Reload_n_Shot_Shadow_022_0003.png
+  artifactKey: Guid(e2e06cb70f720b440a81bf1116ef01ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/022/Reload_n_Shot_Shadow_022_0003.png using Guid(e2e06cb70f720b440a81bf1116ef01ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4da43228944b60f365cccd018362d27f') in 0.0138212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+  artifactKey: Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs using Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2fac7b8787cd22ac405d38d8060af93c') in 0.0062268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_270.png
+  artifactKey: Guid(0d95d3b629d3df0408d113af69ad6f72) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_270.png using Guid(0d95d3b629d3df0408d113af69ad6f72) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '65f02dfd59504a1424d542734ba6c654') in 0.0132868 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0003.png
+  artifactKey: Guid(ac71cf8b59f219f499b463f4c60c8f8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista reload animations NO SHADOW/Shadow/067/Reload_n_Shot_Shadow_067_0003.png using Guid(ac71cf8b59f219f499b463f4c60c8f8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bdc0df124ab0c36f42a5aa62a2efbe6c') in 0.0150053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ce45e5f958e0688f4b972a4979661f97') in 0.0093702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_292.png
+  artifactKey: Guid(b04de01ffb6385c499b939ff6d2b3489) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/Balista/Balista bolt for shot animation NO SHADOW/Shadow/Bolt_For_Shots_Shadow_292.png using Guid(b04de01ffb6385c499b939ff6d2b3489) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '09642fe1af9e3a34997b7269ff6930f7') in 0.041278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
