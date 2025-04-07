@@ -5,17 +5,19 @@ using UnityEngine;
 public class SignController : MonoBehaviour
 {
     public bool isRead;
-    public string currentString = "Did not read sign!";
+    public string currentString;
+    public int signNumber;
+    
 
     public void UseObject()
     {
         if(!isRead)
         {
             isRead = true;
-            currentString = "Sign is read!";
-            Debug.Log(currentString);       //for now. at implementation this will be THIS sign's string
-            Debug.Log("Item used");
-
+            Debug.Log("isRead set to true. need to icrement sign counter for difficulty.");
+            // player.signCounter += 1;
         }
+        Debug.Log(currentString);       //for now. at implementation this will output to speech/thought bubble.
+        Debug.Log("regardless of isRead, sign is read.");
     }
 }

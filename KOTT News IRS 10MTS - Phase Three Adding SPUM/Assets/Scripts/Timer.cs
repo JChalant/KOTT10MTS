@@ -11,8 +11,7 @@ public class Timer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float remainingTime = CountdownInSecTime;   // set countdown timer from passed argument
-             
+        
             if (CountdownInSecTime > 0)                      // countdown
             {
                 CountdownInSecTime -= Time.deltaTime;

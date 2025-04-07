@@ -20,7 +20,7 @@ public class CauldronController : MonoBehaviour
 
             for (int i = 1; i < 110; i++)
             {
-                transform.rotation.z += thisRotation;  // incrementing the rotation by 1/-1
+               // transform.rotation.z += thisRotation;  // incrementing the rotation by 1/-1
             }
             // set cauldron png to empty image
 
@@ -33,7 +33,7 @@ public class CauldronController : MonoBehaviour
             {
                 for (int i = 1; i < 110; i++)
                 {
-                    transform.rotation.z -= thisRotation;  // incrementing the rotation by 1/-1
+                    // transform.rotation.z -= thisRotation;  // incrementing the rotation by 1/-1
                 }
                 // set cauldron png to full image
                 remainingTime = 0;
