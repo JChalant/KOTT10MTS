@@ -1,50 +1,77 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class CauldronController : MonoBehaviour
 {
     public bool isInUse;
-    public string currentString = "Available to use!";
-    [SerializeField] public float remainingTime; // time until cauldron can be used again 
-
-    private int thisRotation;
-
+    public int leftOrRight; // set manually to (-1/1)
+    public float secondsToReload;   // entered through inspector for adjustable value. (I dont remember if its 10,12, or 15s)
+    private float remainingTime; // time until cauldron can be used again 
+    public Sprite fullCauldronPNG; // image to use for full cauldron. should be identical to cauldron object!
+    public Sprite emptyCauldronPNG; // Image to use for empty cauldron
+    
     public void UseObject()
     {
-        thisRotation = (int)transform.rotation.z;    // this object's transform rotation z axis, which MUST be set to either 1 or -1
+        
         if (!isInUse)
         {
             isInUse = true;
-            Debug.Log("Cauldron used. rotation value is: " + thisRotation);
+            Debug.Log("Cauldron used");
 
-            for (int i = 1; i < 110; i++)
+            remainingTime = secondsToReload;
+
+            //play audio
+
+            if (leftOrRight >= 0)    // 1 represents "left" / counter clockwise rotation 
             {
-               // transform.rotation.z += thisRotation;  // incrementing the rotation by 1/-1
+
+                //rotate game object?
+                transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 110f);
+
             }
+            else if (leftOrRight < 0)   // -1 represents "right" / clockwise rotation 
+            {
+                //rotate game object?
+                transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, -110f);
+            }
+
             // set cauldron png to empty image
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = emptyCauldronPNG; 
 
-            // start 15s timer and create variable for 'else' call below
-            if (remainingTime > 0)                      // countdown
-            {
-                remainingTime -= Time.deltaTime;
-            }
-            else if (remainingTime < 0)                  // stop countdown, and do end of timer things. Like; StartInvasion(); &/o GameOver();
-            {
-                for (int i = 1; i < 110; i++)
-                {
-                    // transform.rotation.z -= thisRotation;  // incrementing the rotation by 1/-1
-                }
-                // set cauldron png to full image
-                remainingTime = 0;
-                                           
-            }
+            // start 15s timer and create variable for 'else' call below/
+            // Should be happening during Update already
 
-                        // isInUse = false; // final reset for use again
         }
         else
         {
             // output message; time remaining in sec. (until the cauldron resets)
+            Debug.Log(remainingTime);
         }
+    }
+
+    void Update()
+    {
+
+        if (remainingTime > 0)                      // countdown
+        {
+            remainingTime -= Time.deltaTime;
+        }
+        else if (remainingTime <= 0)                  // stop countdown, and do end of timer things. 
+        {
+            //play audio
+
+            //rotate game object back?
+            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 0f);
+
+            // set cauldron png to full image
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = fullCauldronPNG; // the image set as default 
+
+            isInUse = false;
+            remainingTime = 0;
+
+        }
+
     }
 }
