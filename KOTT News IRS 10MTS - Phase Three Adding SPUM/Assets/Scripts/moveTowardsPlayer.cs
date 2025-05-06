@@ -14,13 +14,13 @@ public class moveTowardsPlayer : MonoBehaviour
         moveSpeed = speed;
     }
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Move();
     }
     public void Move()
     {
         Vector3 direction = PlayerMovment.getPosition() - transform.position;
-        rb.MovePosition(transform.position + (direction.normalized * moveSpeed/10));
+        rb.MovePosition(transform.position + (direction.normalized * moveSpeed/20));
     }
 }

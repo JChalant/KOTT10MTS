@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 3279876616727604076}
   - component: {fileID: 2153714826198302265}
   - component: {fileID: 5374773049912680366}
-  - component: {fileID: 7514242607781354044}
+  - component: {fileID: 7438807596098592057}
   m_Layer: 0
   m_Name: SampleEnemy
   m_TagString: Untagged
@@ -211,8 +211,10 @@ MonoBehaviour:
   health: 10
   damage: 2
   moveSpeed: 1
-  movement: {fileID: 7514242607781354044}
---- !u!114 &7514242607781354044
+  difficulty: 0
+  damageTimer: 0.5
+  movement: {fileID: 7438807596098592057}
+--- !u!114 &7438807596098592057
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -221,6 +223,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 5044190815403297402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b5cd1303d7893742a183337633ae0e7, type: 3}
+  m_Script: {fileID: 11500000, guid: 32334a4455d2fcd429297e04da8b6d98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
