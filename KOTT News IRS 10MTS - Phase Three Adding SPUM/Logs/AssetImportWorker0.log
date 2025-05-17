@@ -15,7 +15,7 @@ C:/Users/rkeit/OneDrive/Documentos/GitHub/collabTowerDefense/KOTT10MTS/KOTT News
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57808
+62708
 -job-worker-count
 5
 -background-job-worker-count
