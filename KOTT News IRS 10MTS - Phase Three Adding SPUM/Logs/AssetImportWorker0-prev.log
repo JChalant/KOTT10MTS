@@ -15,7 +15,7 @@ D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52914
+56249
 -job-worker-count
 7
 -background-job-worker-count
@@ -59,12 +59,14 @@ D:/JC Media Group/github stuff/KOTT News IRS 10MTS/KOTT10MTS/KOTT News IRS 10MTS
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [39536]  Target information:
+Player connection [3892]  Target information:
 
-Player connection [39536]  * "[IP] 192.168.50.58 [Port] 0 [Flags] 2 [Guid] 3508267428 [EditorId] 3508267428 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LTRCK6L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [3892]  * "[IP] 192.168.50.37 [Port] 0 [Flags] 2 [Guid] 3321229442 [EditorId] 3321229442 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LTRCK6L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [39536] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [39536] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [3892]  * "[IP] 192.168.50.58 [Port] 0 [Flags] 2 [Guid] 3321229442 [EditorId] 3321229442 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LTRCK6L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3892] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3892] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -75,7 +77,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.26 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.88 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.32f1 (b2e806cf271c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
@@ -91,45 +93,45 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002965 seconds.
-- Loaded All Assemblies, in  0.256 seconds
+Registered in 0.002870 seconds.
+- Loaded All Assemblies, in  0.249 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.215 seconds
-Domain Reload Profiling: 470ms
+- Finished resetting the current domain, in  0.198 seconds
+Domain Reload Profiling: 445ms
 	BeginReloadAssembly (86ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (0ms)
-	RebuildCommonClasses (24ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (102ms)
-		LoadAssemblies (84ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (97ms)
+		LoadAssemblies (85ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (100ms)
-			TypeCache.Refresh (99ms)
-				TypeCache.ScanAssembly (90ms)
+		AnalyzeDomain (95ms)
+			TypeCache.Refresh (94ms)
+				TypeCache.ScanAssembly (86ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (216ms)
+	FinalizeReload (198ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (184ms)
+		SetupLoadedEditorAssemblies (177ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (17ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (35ms)
-			ProcessInitializeOnLoadAttributes (96ms)
-			ProcessInitializeOnLoadMethodAttributes (33ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (92ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -138,697 +140,146 @@ Domain Reload Profiling: 470ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.564 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.558 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.534 seconds
-Domain Reload Profiling: 1096ms
-	BeginReloadAssembly (119ms)
+- Finished resetting the current domain, in  0.511 seconds
+Domain Reload Profiling: 1066ms
+	BeginReloadAssembly (110ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (24ms)
-	RebuildCommonClasses (24ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (26ms)
-	LoadAllAssembliesAndSetupDomain (384ms)
-		LoadAssemblies (243ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (369ms)
+		LoadAssemblies (224ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (210ms)
-			TypeCache.Refresh (125ms)
-				TypeCache.ScanAssembly (114ms)
-			BuildScriptInfoCaches (74ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (534ms)
+		AnalyzeDomain (208ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (116ms)
+			BuildScriptInfoCaches (70ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (511ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (442ms)
+		SetupLoadedEditorAssemblies (430ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (2ms)
 			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (79ms)
-			ProcessInitializeOnLoadAttributes (288ms)
-			ProcessInitializeOnLoadMethodAttributes (67ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (283ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
 			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (4ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 219 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6640 unused Assets / (4.3 MB). Loaded Objects now: 7334.
-Memory consumption went from 180.5 MB to 176.2 MB.
-Total: 6.019100 ms (FindLiveObjects: 0.618000 ms CreateObjectMapping: 0.333700 ms MarkObjects: 3.563000 ms  DeleteObjects: 1.504000 ms)
+Unloading 6640 unused Assets / (4.0 MB). Loaded Objects now: 7334.
+Memory consumption went from 180.4 MB to 176.4 MB.
+Total: 5.535700 ms (FindLiveObjects: 0.623600 ms CreateObjectMapping: 0.257400 ms MarkObjects: 3.280800 ms  DeleteObjects: 1.373200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 963611.944791 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 02 Lindy.prefab
-  artifactKey: Guid(f73807479fc352d46aad98b021e5ac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 02 Lindy.prefab using Guid(f73807479fc352d46aad98b021e5ac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3cd5184b8e20f631e48db725d4cfd8e0') in 0.3603411 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
+  Time since last request: 34292.209229 seconds.
+  path: Assets/Scenes/Windsward.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Windsward.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81c30c9f7feb3a05799ffcc37736a81e') in 0.00642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.511 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.489 seconds
+Domain Reload Profiling: 1000ms
+	BeginReloadAssembly (147ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (313ms)
+		LoadAssemblies (220ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (158ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (143ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (489ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (368ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (246ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 0.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6638 unused Assets / (4.1 MB). Loaded Objects now: 7339.
+Memory consumption went from 147.5 MB to 143.4 MB.
+Total: 5.712800 ms (FindLiveObjects: 0.590500 ms CreateObjectMapping: 0.386000 ms MarkObjects: 3.301100 ms  DeleteObjects: 1.434500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
 Received Import Request.
-  Time since last request: 19.885856 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 03 Boldar.prefab
-  artifactKey: Guid(eb36665e29ddb604aa468fc56a8b67e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 03 Boldar.prefab using Guid(eb36665e29ddb604aa468fc56a8b67e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49a5fa58ecaf997dc429fbe0c81b4897') in 0.0415667 seconds
+  Time since last request: 458.568761 seconds.
+  path: Assets/SPUM/Resources/Units/SPUM_20250620135525594.prefab
+  artifactKey: Guid(358941ffdebc92c448f4491ed5381f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Units/SPUM_20250620135525594.prefab using Guid(358941ffdebc92c448f4491ed5381f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3da91743bbe36ccb30bf79cecc5362d') in 0.3713764 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.381206 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 04 RedRum.prefab
-  artifactKey: Guid(bc2664730a4a12647ac91b69a1ae87e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 04 RedRum.prefab using Guid(bc2664730a4a12647ac91b69a1ae87e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba281a624c46b213f890ecbeb1925354') in 0.0383977 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.013254 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 05 Hetawa.prefab
-  artifactKey: Guid(373af5d002d78d748a157e7255a8f3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 05 Hetawa.prefab using Guid(373af5d002d78d748a157e7255a8f3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1dd14458f7a1157a958bd3de060b5184') in 0.0385566 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 266
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.105897 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 06 Terrah.prefab
-  artifactKey: Guid(96fb141a73f0f0545bb23f461540eace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 06 Terrah.prefab using Guid(96fb141a73f0f0545bb23f461540eace) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ed519424bc8aadeb8165fb7a097a40c') in 0.0431708 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.751200 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 07 KarmaWad420.prefab
-  artifactKey: Guid(be9714efcf002374ea2cb28da5342fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 07 KarmaWad420.prefab using Guid(be9714efcf002374ea2cb28da5342fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '850f7feeddbc493c11ffbe7de7982ff3') in 0.0401332 seconds
+  Time since last request: 30.195660 seconds.
+  path: Assets/SPUM/Resources/Units/NPC 72 Keekz.prefab
+  artifactKey: Guid(358941ffdebc92c448f4491ed5381f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Units/NPC 72 Keekz.prefab using Guid(358941ffdebc92c448f4491ed5381f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd308c4f1e306444037f75c4b09705b7e') in 0.0339986 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.518819 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 08 BobRoss47.prefab
-  artifactKey: Guid(74e43fc37de69684a95061af02e1ec74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 08 BobRoss47.prefab using Guid(74e43fc37de69684a95061af02e1ec74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '237c4b96bf5c53f8e9ade60f3ce5ed93') in 0.040413 seconds
+  Time since last request: 14.720915 seconds.
+  path: Assets/SPUM/Resources/Units/NPC 73 TheDactyl.prefab
+  artifactKey: Guid(d8deb63c6e67a1d40966cb5d88627064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SPUM/Resources/Units/NPC 73 TheDactyl.prefab using Guid(d8deb63c6e67a1d40966cb5d88627064) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eac5f6ccb7ff9111fc65a09d25830f0e') in 0.0344056 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.825026 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 09 DeadlyKitten.prefab
-  artifactKey: Guid(3a861c673c8e88f4ca7193ed58ffcbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 09 DeadlyKitten.prefab using Guid(3a861c673c8e88f4ca7193ed58ffcbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3736a63c4d322dd41d27270ed92e71a') in 0.0481578 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.581216 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 10 John Winston.prefab
-  artifactKey: Guid(6ed7751ca27f81745815e23cdb83c1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 10 John Winston.prefab using Guid(6ed7751ca27f81745815e23cdb83c1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a96d1cf28a1dd2d8841da01cdd5eefe3') in 0.0394967 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.365427 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 11 Kotanaa.prefab
-  artifactKey: Guid(8fb57272643f3234984861ecb6d9425a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 11 Kotanaa.prefab using Guid(8fb57272643f3234984861ecb6d9425a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db4d692610157f4889f4ab6a350ba204') in 0.0385035 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 273
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.458165 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 12 Marz1233.prefab
-  artifactKey: Guid(9616af2e88151944190d12b149a5fe50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 12 Marz1233.prefab using Guid(9616af2e88151944190d12b149a5fe50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '958db7eb1eaa7db8ebb33219763de7ca') in 0.0398743 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 265
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.798520 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 13 Whole Package.prefab
-  artifactKey: Guid(af7684b934dbbfd4fb6c909cbcba915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 13 Whole Package.prefab using Guid(af7684b934dbbfd4fb6c909cbcba915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2eda9c29890f38b846b3f3c15eb93dd') in 0.040839 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.671974 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 14 Carl Gunderson.prefab
-  artifactKey: Guid(a95989a5dc2f0594993a213c88e2b662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 14 Carl Gunderson.prefab using Guid(a95989a5dc2f0594993a213c88e2b662) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ea2f17ef933c6f7f83c99b88793211d') in 0.0483583 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.539570 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 15 S.O. Destructive.prefab
-  artifactKey: Guid(a4cd7f658dcbe47409d84fdde188351c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 15 S.O. Destructive.prefab using Guid(a4cd7f658dcbe47409d84fdde188351c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '050e2237a6ac33d50a831da04a5c3c26') in 0.0395636 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 265
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.553064 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 16 MulishaGirl.prefab
-  artifactKey: Guid(06bc4f0aad8d5424f8f0999f35a5e478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 16 MulishaGirl.prefab using Guid(06bc4f0aad8d5424f8f0999f35a5e478) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c773d4d681ec6e2d383ced6d3a474804') in 0.0387208 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.439929 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 17 FoginTheNoggin.prefab
-  artifactKey: Guid(153d9c2ea067a2849b6df1e526bc183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 17 FoginTheNoggin.prefab using Guid(153d9c2ea067a2849b6df1e526bc183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3da89996f317d8aa614b704e0b851bcf') in 0.0405606 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 261
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.883741 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 18 Brickette.prefab
-  artifactKey: Guid(51a229f07606c1640b9373f563a9673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 18 Brickette.prefab using Guid(51a229f07606c1640b9373f563a9673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7114a206cd33dcf71136eb38f3e12c81') in 0.0398772 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.954677 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 20 Squid Widget.prefab
-  artifactKey: Guid(38c13910f8962274b97d31b0e005b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 20 Squid Widget.prefab using Guid(38c13910f8962274b97d31b0e005b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fad56d08c6a235d9f0c8bd271c322b14') in 0.042818 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.892680 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 19 DexterKillzs.prefab
-  artifactKey: Guid(7d57c25f235f5a5419b34bf3e780c7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 19 DexterKillzs.prefab using Guid(7d57c25f235f5a5419b34bf3e780c7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '191c3f94e25f251919359648c6203736') in 0.0404251 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 273
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.679919 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 21 LowriderGuss.prefab
-  artifactKey: Guid(7fd9fb42d7268444db5c6d05b15a9a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 21 LowriderGuss.prefab using Guid(7fd9fb42d7268444db5c6d05b15a9a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f979b93d2aac8a8a7cc07ff477f66921') in 0.043443 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.334459 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 22 Hellaspills.prefab
-  artifactKey: Guid(72000b5334244ad4598b70d7b943b973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 22 Hellaspills.prefab using Guid(72000b5334244ad4598b70d7b943b973) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8923aedf405637b17a926e060b84591') in 0.0402898 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.180509 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 23 Angydda.prefab
-  artifactKey: Guid(d3cd88423dfc863448a4c03881ff0474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 23 Angydda.prefab using Guid(d3cd88423dfc863448a4c03881ff0474) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd15de52962ec733262324feace4c30ca') in 0.0386056 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.464731 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 41 Cromme.prefab
-  artifactKey: Guid(44389ff4a8143c1449b7ab5df3209db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 41 Cromme.prefab using Guid(44389ff4a8143c1449b7ab5df3209db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78a11f0e0063b6aaa68553990fdb70a2') in 0.0390093 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.100032 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 25 Grizzdussy.prefab
-  artifactKey: Guid(498469bf01cb2b246a3abb64030e539b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 25 Grizzdussy.prefab using Guid(498469bf01cb2b246a3abb64030e539b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c83577588ddf547943cdd1a7c80167f') in 0.0395092 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.605190 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 24 Amirgse.prefab
-  artifactKey: Guid(e4b7305f07b2f0547b52419eb9f4a30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 24 Amirgse.prefab using Guid(e4b7305f07b2f0547b52419eb9f4a30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd44ffc7c84d68547563bec7f17074c0') in 0.0378966 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.553036 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 26 TheeBananaMan.prefab
-  artifactKey: Guid(4161ccca502ae144f98b0eceb103aa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 26 TheeBananaMan.prefab using Guid(4161ccca502ae144f98b0eceb103aa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '570efbcf4d643d9a4d1f73b395a48b6f') in 0.0386467 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.807421 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 27 Miffany.prefab
-  artifactKey: Guid(e0833cfb23e274c479fd24f0cd53c584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 27 Miffany.prefab using Guid(e0833cfb23e274c479fd24f0cd53c584) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bdc70393fc54033934476c070ef9045') in 0.0413062 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.324843 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 28 Lasrak.prefab
-  artifactKey: Guid(95b64311c7b792d4597ceaebe3d4fbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 28 Lasrak.prefab using Guid(95b64311c7b792d4597ceaebe3d4fbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b50490acf2c79a5fb40c28480880ed5e') in 0.0394583 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 273
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.399498 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 29 Circe Skye.prefab
-  artifactKey: Guid(ae573ec6cc02c43448ac9ed9ab1fb96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 29 Circe Skye.prefab using Guid(ae573ec6cc02c43448ac9ed9ab1fb96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4982cf2af3f1fcf50031f1f2cd52c9ee') in 0.0385127 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.320925 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 30 Neo09.prefab
-  artifactKey: Guid(8e5d80dd89baadc4bbd6106fb079f902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 30 Neo09.prefab using Guid(8e5d80dd89baadc4bbd6106fb079f902) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5e680291ee54996c32131a9cce313fb') in 0.0428173 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.309312 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 31 Teanwei.prefab
-  artifactKey: Guid(58a7f0dc6031a7342b555b73e708f2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 31 Teanwei.prefab using Guid(58a7f0dc6031a7342b555b73e708f2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '403bba4460494ab127d28a058f9c5ed7') in 0.0394872 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.126926 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 32 SilenceisSweet.prefab
-  artifactKey: Guid(db6c28785e6ead9489974f225d371a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 32 SilenceisSweet.prefab using Guid(db6c28785e6ead9489974f225d371a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b34b1c7bc2836ff5c7e1e8ceb79bdd7') in 0.0375154 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.915668 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 33 Duusty.prefab
-  artifactKey: Guid(5322e6b90bcb46c438ba76c3001b6d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 33 Duusty.prefab using Guid(5322e6b90bcb46c438ba76c3001b6d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7ccd3eb8a03eba7b5ff451b97895cb9') in 0.0418971 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 273
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.904115 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 34 AbyssalKittyKat.prefab
-  artifactKey: Guid(cc3b7a00ca9c533408930169b034e6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 34 AbyssalKittyKat.prefab using Guid(cc3b7a00ca9c533408930169b034e6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b1aeed31f73d4b0611824737ea252cd') in 0.0384362 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.785168 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 35 IceJDog.prefab
-  artifactKey: Guid(2086debfd8a81f24199215d669a369a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 35 IceJDog.prefab using Guid(2086debfd8a81f24199215d669a369a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc3c8968a2b7cc59c08f6909f9f047c7') in 0.040296 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.172295 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 36 Irk DeBoutit.prefab
-  artifactKey: Guid(9086daf4849f42e4f81d7c03cb35696c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 36 Irk DeBoutit.prefab using Guid(9086daf4849f42e4f81d7c03cb35696c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '023643e5c25854185fe9d110c34426a0') in 0.0400523 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.126673 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 37 Juan Soto.prefab
-  artifactKey: Guid(f4183fae524cf97458a7565ddfa3c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 37 Juan Soto.prefab using Guid(f4183fae524cf97458a7565ddfa3c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80baa8bddee3cc69c4ba2d5238dada9f') in 0.0413845 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.027068 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 38 Lachlon.prefab
-  artifactKey: Guid(857439ef4779d2e4fb0a16385ea99f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 38 Lachlon.prefab using Guid(857439ef4779d2e4fb0a16385ea99f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14799762c416d53a7a84aa889fa301cf') in 0.040502 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 273
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.645328 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 39 PixelToPaper.prefab
-  artifactKey: Guid(e82a06e5262ddf84cb9af1a875ac7f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 39 PixelToPaper.prefab using Guid(e82a06e5262ddf84cb9af1a875ac7f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd3e026575483d31c9e586f8cdb3cfe3') in 0.0388953 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.025185 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 40 Pattazha.prefab
-  artifactKey: Guid(39e457a5dec34c348bc11acc240ca04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 40 Pattazha.prefab using Guid(39e457a5dec34c348bc11acc240ca04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70ce5fcd4cd1d1c02567622c009b7c25') in 0.0377846 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.335810 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 42.prefab
-  artifactKey: Guid(0325e8b8129e96f40b10a5e3e8dd0656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 42.prefab using Guid(0325e8b8129e96f40b10a5e3e8dd0656) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '474c9afcd9a89e6202613370c0457bdd') in 0.0411221 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.583402 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 42 Ron Danger.prefab
-  artifactKey: Guid(0325e8b8129e96f40b10a5e3e8dd0656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 42 Ron Danger.prefab using Guid(0325e8b8129e96f40b10a5e3e8dd0656) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c6ebf5825afe834c18340288609fc6c') in 0.0351661 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.180362 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 43 Soghun.prefab
-  artifactKey: Guid(3ceec5f2d10533547afc2f8367fa21fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 43 Soghun.prefab using Guid(3ceec5f2d10533547afc2f8367fa21fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a1ec97db202050bc7f0cc5a0c56a9582') in 0.0388814 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 265
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.393989 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 44 Thornak.prefab
-  artifactKey: Guid(9e631a48d98539242aa153b33446cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 44 Thornak.prefab using Guid(9e631a48d98539242aa153b33446cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3440b3e9a09359143ee5b9aa18bb4a99') in 0.0387466 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 266
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.414628 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 45 Raven Roza.prefab
-  artifactKey: Guid(e8158a9ea7950af4782dc4af1c475ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 45 Raven Roza.prefab using Guid(e8158a9ea7950af4782dc4af1c475ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3527fa27e1a401df0276f989e9c23f78') in 0.0394557 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.684499 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 46 Bladezz.prefab
-  artifactKey: Guid(05224e21b8e02db4993dd617354fe2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 46 Bladezz.prefab using Guid(05224e21b8e02db4993dd617354fe2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9d7d7f73ab4e1ee2f4505bed78344a9') in 0.0406563 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.922325 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 47 FCRacers.prefab
-  artifactKey: Guid(6aa69b060d8c0ad4ca91ff1975f8b3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 47 FCRacers.prefab using Guid(6aa69b060d8c0ad4ca91ff1975f8b3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '380934c0bfae26c4166a38a63cc6b8e9') in 0.0382742 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.946160 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 48 SummonDemon.prefab
-  artifactKey: Guid(d9b6376f754d2594d83d01aca868952e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 48 SummonDemon.prefab using Guid(d9b6376f754d2594d83d01aca868952e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c34089a49afb329a864cd6149300495') in 0.0386431 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.366018 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 49 Afrodiety.prefab
-  artifactKey: Guid(7ab00ba705a268b49bceac55e5a60052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 49 Afrodiety.prefab using Guid(7ab00ba705a268b49bceac55e5a60052) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f6a18260635381b4b655f2409fd4305') in 0.0429172 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.511662 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 50 Astraia Nyx.prefab
-  artifactKey: Guid(a133b9471b889bb4faafb715e1eace3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 50 Astraia Nyx.prefab using Guid(a133b9471b889bb4faafb715e1eace3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4c80c3914f2c11572a016e7adef4762') in 0.0405582 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.781569 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 51 Wdy.prefab
-  artifactKey: Guid(f31b70155544ded4ead145c993e25ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 51 Wdy.prefab using Guid(f31b70155544ded4ead145c993e25ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c66c0ec69a3f89addaf0f481041894c4') in 0.0405744 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 271
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.938410 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 52 PrincessButterfly.prefab
-  artifactKey: Guid(242beb94b4485c44e8adad8815ad0cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 52 PrincessButterfly.prefab using Guid(242beb94b4485c44e8adad8815ad0cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27d48b951b5d2fd853e20046e8bb69be') in 0.0390505 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.912096 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 53 Rajdah.prefab
-  artifactKey: Guid(6e667d6a7f69eb54f819c930d5da50ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 53 Rajdah.prefab using Guid(6e667d6a7f69eb54f819c930d5da50ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1daaa9923e5c7446d946bc7c180b0060') in 0.0390945 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.468956 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 54 Kara Thr8ce.prefab
-  artifactKey: Guid(d48e4082885260d40b7440e8628646cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 54 Kara Thr8ce.prefab using Guid(d48e4082885260d40b7440e8628646cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b1d1276686e1c0762a7e815ddd00216') in 0.0427598 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.048180 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 55 mvick07.prefab
-  artifactKey: Guid(1164c69742c66d34392548de4f01880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 55 mvick07.prefab using Guid(1164c69742c66d34392548de4f01880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e589263951cba9fa7865af1772a8ddd2') in 0.038775 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.515607 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 56 Dan Pecan.prefab
-  artifactKey: Guid(4ff22952070ba54418a8e9fd05a7e929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 56 Dan Pecan.prefab using Guid(4ff22952070ba54418a8e9fd05a7e929) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6a930ae9b6d9612f672a028e3a4564e') in 0.040294 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.109200 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 57 KobeNW.prefab
-  artifactKey: Guid(97c559846198d3c4ba862915d97e488d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 57 KobeNW.prefab using Guid(97c559846198d3c4ba862915d97e488d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b4bcf773c660082370036622e48873c') in 0.0398875 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.069249 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 58 SwiftStr0k3.prefab
-  artifactKey: Guid(728b79210593d50439a1930fa8a41cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 58 SwiftStr0k3.prefab using Guid(728b79210593d50439a1930fa8a41cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6eb5ab8ad534c9a614785e898621568f') in 0.0419754 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.690193 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 59 TITAN Gtv.prefab
-  artifactKey: Guid(a212b4f5e8bc5e044be98c7f3e806808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 59 TITAN Gtv.prefab using Guid(a212b4f5e8bc5e044be98c7f3e806808) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b53f6c1e117e5d6855bdd751fb6b4d32') in 0.0382085 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.590111 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 60 Knifen.prefab
-  artifactKey: Guid(bfa800fac56e3a947900ffaac965e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 60 Knifen.prefab using Guid(bfa800fac56e3a947900ffaac965e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf2166628b588f6803112de2522bbb28') in 0.0491348 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.863427 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 61 Pixel8d.prefab
-  artifactKey: Guid(570fe9ba3c2f2944890c2613f8e224e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 61 Pixel8d.prefab using Guid(570fe9ba3c2f2944890c2613f8e224e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72d68005cf45d1602b40a49e11622636') in 0.0405152 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.252518 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 62 Melvin.prefab
-  artifactKey: Guid(0cb45d524a73ffd42b328955b60b2724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 62 Melvin.prefab using Guid(0cb45d524a73ffd42b328955b60b2724) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d527bb9294e96cb1a9d0f170a9db520') in 0.0414552 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.731433 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 63 NakedxGamer.prefab
-  artifactKey: Guid(6bb146c076c4364499cd4da934e98b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 63 NakedxGamer.prefab using Guid(6bb146c076c4364499cd4da934e98b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e56afe8dfac09078ad618a0c69918de') in 0.0385556 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 263
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.257692 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 64 Janette18.prefab
-  artifactKey: Guid(1337fdfaf74ac414fa7f5f9a767d8f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 64 Janette18.prefab using Guid(1337fdfaf74ac414fa7f5f9a767d8f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83c175524138d4964fd83742e5ee85b4') in 0.0405349 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.434787 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 65 Tamago KakeGohan.prefab
-  artifactKey: Guid(1ecefe607aec2534ea86a70615f6a3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 65 Tamago KakeGohan.prefab using Guid(1ecefe607aec2534ea86a70615f6a3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9980951d258d3b76b4835150b04871b1') in 0.0385587 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.565618 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 66 Wren Nightwing.prefab
-  artifactKey: Guid(9b37f5a7632db01459176e8fa97f2ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 66 Wren Nightwing.prefab using Guid(9b37f5a7632db01459176e8fa97f2ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae8b29020f62ade164c0d850fdc6a27f') in 0.0401725 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.499640 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 67 Evergrace.prefab
-  artifactKey: Guid(e777ea63f8649d247a4d75f79f58fcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 67 Evergrace.prefab using Guid(e777ea63f8649d247a4d75f79f58fcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88d798a0ce167fd6691d1f3b743dce3b') in 0.0394551 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.080822 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 68 Gemineye.prefab
-  artifactKey: Guid(0210d76c313bcb344a5db8a3db5eec91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 68 Gemineye.prefab using Guid(0210d76c313bcb344a5db8a3db5eec91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a801d8e70ce6e2089a5090b3b9f8fdd8') in 0.0398295 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.257369 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 69 Borrian.prefab
-  artifactKey: Guid(a442b643b872d514d82db51d6df84a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 69 Borrian.prefab using Guid(a442b643b872d514d82db51d6df84a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '400ae1d9aa6be625dc13dc8739ab11fa') in 0.0386946 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.708439 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 70 Spenni.prefab
-  artifactKey: Guid(f7ae8ac1375422a468aec9aade8c653d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 70 Spenni.prefab using Guid(f7ae8ac1375422a468aec9aade8c653d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2b5c3ba803c048d83fc1ed843e1b095') in 0.0389527 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 271
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.923738 seconds.
-  path: Assets/SPUM/Resources/Units/NPC 71 Meowzilla.prefab
-  artifactKey: Guid(998048adf371e734d8d8b676051415c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/NPC 71 Meowzilla.prefab using Guid(998048adf371e734d8d8b676051415c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a3b4b0d42a397e412013bc27b9b66ff') in 0.0399648 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 272
-
-========================================================================
-Received Import Request.
-  Time since last request: 53.272137 seconds.
-  path: Assets/SPUM/Resources/Units/PC 01 Main Player.prefab
-  artifactKey: Guid(90704db62e056b84799239e725f773a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/PC 01 Main Player.prefab using Guid(90704db62e056b84799239e725f773a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0fff1b118b811b39ed229ce4de17039') in 0.0387665 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 270
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.299989 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 99 Blue Spearman.prefab
-  artifactKey: Guid(b410f766d3dfb314f886c5f89f20f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 99 Blue Spearman.prefab using Guid(b410f766d3dfb314f886c5f89f20f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40afac7f1b09c509e3f78e3b36bb633e') in 0.0387672 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.136198 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 98 Red Spearman.prefab
-  artifactKey: Guid(e30ce45012107f945a6bd989559341bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 98 Red Spearman.prefab using Guid(e30ce45012107f945a6bd989559341bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43e3280cdca366ae152650aacd335947') in 0.040546 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.387999 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 97 Blue Swordsman.prefab
-  artifactKey: Guid(a266c7b1effc58a4384459ae13cf112d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 97 Blue Swordsman.prefab using Guid(a266c7b1effc58a4384459ae13cf112d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd272d8a55927c999a47b2ecdbdcefe7d') in 0.0516575 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.588891 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 96 Red Swordsman.prefab
-  artifactKey: Guid(896f803814228aa41a1c6ce3a884dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 96 Red Swordsman.prefab using Guid(896f803814228aa41a1c6ce3a884dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed5f05c143852591ce0150ad432bdcae') in 0.0410022 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 274
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.976954 seconds.
-  path: Assets/SPUM/Resources/Units/Mob 95 Blue Mage.prefab
-  artifactKey: Guid(56c3f04aa8655c04fb42cba32f37a580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/Mob 95 Blue Mage.prefab using Guid(56c3f04aa8655c04fb42cba32f37a580) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f96b292c8c1dd041904ed3fea14db5f') in 0.0381379 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.809991 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 94 Red Mage.prefab
-  artifactKey: Guid(b9d8de6cffd650f4fb1bdd1ad6f50f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 94 Red Mage.prefab using Guid(b9d8de6cffd650f4fb1bdd1ad6f50f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ca2ae427716430eb8a3810b75fd09e5') in 0.0403743 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.409441 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 95 Blue Mage.prefab
-  artifactKey: Guid(56c3f04aa8655c04fb42cba32f37a580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 95 Blue Mage.prefab using Guid(56c3f04aa8655c04fb42cba32f37a580) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed3e3573c5ab3594b5ba2eef5018c06d') in 0.0356676 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.481228 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 93 Blue Archer.prefab
-  artifactKey: Guid(b30c31db3a457e5458635b9d371a800c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 93 Blue Archer.prefab using Guid(b30c31db3a457e5458635b9d371a800c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9409a529f3c27f1ce42e648468aacb20') in 0.0485572 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.473297 seconds.
-  path: Assets/SPUM/Resources/Units/MOB 92 Red Archer.prefab
-  artifactKey: Guid(4b4fe9abbf2dbe24f8db3b2e3afd4fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SPUM/Resources/Units/MOB 92 Red Archer.prefab using Guid(4b4fe9abbf2dbe24f8db3b2e3afd4fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '818840013ad594d60a20c01aeac3426f') in 0.0399078 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 268
+  Time since last request: 231.584584 seconds.
+  path: Assets/Scripts/Wave Runner.cs
+  artifactKey: Guid(562e333c74f59ef40819fa52a653cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Wave Runner.cs using Guid(562e333c74f59ef40819fa52a653cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9402e20debbf13382d7bec583ed2376') in 0.000619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.855795 seconds.
+  path: Assets/Scripts/MobFactory.cs
+  artifactKey: Guid(4cd225ec0bac4bb4da7e11cc62ba08ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MobFactory.cs using Guid(4cd225ec0bac4bb4da7e11cc62ba08ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c16205044321ab13d6765f7a39fcbcbd') in 0.0003441 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
