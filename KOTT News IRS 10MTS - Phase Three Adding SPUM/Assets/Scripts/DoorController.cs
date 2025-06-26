@@ -25,7 +25,7 @@ public class DoorController : MonoBehaviour
             // play stairs down music
             // set player behind background layer
             // CLOSE TRAP DOOR (turn off tilemap)
-            // move player to pairedDoor
+            player.transform.position = new Vector2(pairedDoor.transform.position.x, pairedDoor.transform.position.y); // move player to pairedDoor
             // play stairs up music
             // OPEN TRAP DOOR pairedDoor
             // return player to layer 5
