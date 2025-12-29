@@ -9,6 +9,7 @@ public class Interactable : MonoBehaviour
     public bool isInRange;
     public KeyCode interactKey;
     public UnityEvent interactAction;
+    public GameObject containerGameObject;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -30,12 +31,23 @@ public class Interactable : MonoBehaviour
         
     }
 
+    private void Show()
+    {
+        containerGameObject.SetActive(true);
+    }
+
+    private void Hide()
+    {
+        containerGameObject.SetActive(false);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
             isInRange = true;
             Debug.Log("Player now in range");
+            Show();
         }    
     }
 
@@ -43,6 +55,7 @@ public class Interactable : MonoBehaviour
     {
         isInRange = false;
         Debug.Log("Player now OUT of range");
+        Hide();
     }    
     
 }

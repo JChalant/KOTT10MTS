@@ -21,7 +21,7 @@ public class DoorController : MonoBehaviour
         {
             Debug.Log("In trapDoor is true");
             // set canMove to false for player
-            //turn on tilemap component of this.Object
+            //turn on tilemap component of this.Object (see roberts spawn runner "GATE" objects for reference potential)
             // play stairs down music
             // set player behind background layer
             // CLOSE TRAP DOOR (turn off tilemap)

@@ -45,7 +45,7 @@ public class MobFactory : MonoBehaviour
     public GameObject getMobPrefab(string mobName)
     {
         //Debug.Log("Mob coming in: " + mobName);
-        string filePath = "EnemyPrefabs/" + mobName;
+        string filePath = "Units/" + mobName; // OG code>  string filePath = "EnemyPrefabs/" + mobName;
         //Debug.Log("FilePath: " + filePath);
         GameObject enemy = Resources.Load(filePath) as GameObject;
         //Debug.Log("EnemyPrefab:" + enemy);

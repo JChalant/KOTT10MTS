@@ -22,7 +22,7 @@ public class CauldronController : MonoBehaviour
 
             remainingTime = secondsToReload;
 
-            //play audio
+            //play dropping oil audio
 
             if (leftOrRight >= 0)    // 1 represents "left" / counter clockwise rotation 
             {
@@ -53,7 +53,8 @@ public class CauldronController : MonoBehaviour
 
     void Update()
     {
-
+        // create somthing to prevent update from running else_if after it does teh end of timer things.  perhaps an exactly zero ? if (!0) do the thing?
+        // or is this OK to run in Update perpetualy?
         if (remainingTime > 0)                      // countdown
         {
             remainingTime -= Time.deltaTime;

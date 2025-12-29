@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Gate
+  - Interactable Object
   layers:
   - Default
   - TransparentFX

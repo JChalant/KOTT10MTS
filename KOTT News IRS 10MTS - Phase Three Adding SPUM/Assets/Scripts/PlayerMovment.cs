@@ -60,4 +60,22 @@ public class PlayerMovment : MonoBehaviour
     {
         return self.transform.position; 
     }
+    // Things JC brought in to avoid perpetually updating static interactable objects
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Interactable Object"))
+        {
+            isInRange = true;
+            Debug.Log("Player now in range");
+            Show();
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        isInRange = false;
+        Debug.Log("Player now OUT of range");
+        Hide();
+    }
 }
